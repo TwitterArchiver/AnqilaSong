@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T03:24:45",
+  "last_updated": "2026-08-02T03:25:28",
   "html": {
     "https://web.archive.org/web/20241031152827if_/https://twitter.com/AnqilaSong/status/1852009748813746447": {
       "status": "done",
@@ -5497,45 +5497,45 @@
       "referenced_by": [
         "20250607035912_twitter_com_AnqilaSong_status_1931199236307120229.json"
       ],
-      "last_updated": "2026-08-02T02:55:20",
+      "last_updated": "2026-08-02T03:25:01",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250607035912/https://video.twimg.com/amplify_video/1931199082250240000/vid/avc1/720x1280/ZMw917heve90-PN8.mp4?tag=14",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/Gs0lVQgXoAA6kmv.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20250607064502_twitter_com_AnqilaSong_status_1931240968868536664.json"
       ],
-      "last_updated": "2026-08-02T02:55:17",
+      "last_updated": "2026-08-02T03:25:02",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250607064502/https://video.twimg.com/tweet_video/Gs0lVQgXoAA6kmv.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/1952610380192313344/pu/vid/avc1/960x720/b_R2qig3qu3AC_sf.mp4?tag=12": {
       "status": "failed_all",
       "referenced_by": [
         "20250805055931_twitter_com_AnqilaSong_status_1952610399523586062.json"
       ],
-      "last_updated": "2026-08-02T02:55:19",
+      "last_updated": "2026-08-02T03:25:04",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250805055931/https://video.twimg.com/ext_tw_video/1952610380192313344/pu/vid/avc1/960x720/b_R2qig3qu3AC_sf.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/1956205818845782018/pu/vid/avc1/576x1280/sitV9Urs2O2Av3Tr.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20250815040631_twitter_com_AnqilaSong_status_1956205839058133229.json"
       ],
-      "last_updated": "2026-08-02T02:55:21",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250815040631/https://video.twimg.com/ext_tw_video/1956205818845782018/pu/vid/avc1/576x1280/sitV9Urs2O2Av3Tr.mp4?tag=12",
-      "miss_count": 2
+      "last_updated": "2026-08-02T03:25:10",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20250815040631/https://video.twimg.com/ext_tw_video/1956205818845782018/pu/vid/avc1/576x1280/sitV9Urs2O2Av3Tr.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7fd9087c80>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1975061769627598848/vid/avc1/720x964/lpnuejVKbnUU_FG5.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20251006082921_twitter_com_AnqilaSong_status_1975116154407669797.json"
       ],
-      "last_updated": "2026-08-02T02:55:19",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251006082921/https://video.twimg.com/amplify_video/1975061769627598848/vid/avc1/720x964/lpnuejVKbnUU_FG5.mp4",
-      "miss_count": 2
+      "last_updated": "2026-08-02T03:25:14",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251006082921im_/https://video.twimg.com/amplify_video/1975061769627598848/vid/avc1/720x964/lpnuejVKbnUU_FG5.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7fd8ee5d60>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1981876700024619008/vid/avc1/720x1280/d8yMVLKx44q2IFLN.mp4": {
       "status": "done",
@@ -5545,22 +5545,22 @@
       "last_updated": "2026-08-02T02:55:13"
     },
     "https://video.twimg.com/amplify_video/1991010967678038017/vid/avc1/720x720/94DYFVq-IkC9Tj-I.mp4?tag=14": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20251119050952_twitter_com_AnqilaSong_status_1991011016780759399.json"
       ],
-      "last_updated": "2026-08-02T02:55:21",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251119050952/https://video.twimg.com/amplify_video/1991010967678038017/vid/avc1/720x720/94DYFVq-IkC9Tj-I.mp4?tag=14",
-      "miss_count": 2
+      "last_updated": "2026-08-02T03:25:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119050952im_/https://video.twimg.com/amplify_video/1991010967678038017/vid/avc1/720x720/94DYFVq-IkC9Tj-I.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7fd8ee6b40>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1992113640540127232/vid/avc1/640x640/FddbzzpyGHdlqsMp.mp4?tag=14": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20251122061132_twitter_com_AnqilaSong_status_1992113699012899084.json"
       ],
-      "last_updated": "2026-08-02T02:29:08",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251122061132/https://video.twimg.com/amplify_video/1992113640540127232/vid/avc1/640x640/FddbzzpyGHdlqsMp.mp4?tag=14",
-      "miss_count": 1
+      "last_updated": "2026-08-02T03:25:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251122061132im_/https://video.twimg.com/amplify_video/1992113640540127232/vid/avc1/640x640/FddbzzpyGHdlqsMp.mp4?tag=14 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7fd8f19610>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/1996166465091993602/pu/vid/avc1/720x1280/QxpCgsEczJNkU9hh.mp4?tag=12": {
       "status": "done",
@@ -5577,14 +5577,14 @@
       "last_updated": "2026-08-02T02:29:06"
     },
     "https://video.twimg.com/amplify_video/2010997208146190336/vid/avc1/720x1280/SvXCvn4ce1DzjSbx.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260114140355_twitter_com_AnqilaSong_status_2011439137602302237.json",
         "20260114140502_twitter_com_AnqilaSong_status_2011439418113192334.json"
       ],
-      "last_updated": "2026-08-02T02:29:09",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260114140355/https://video.twimg.com/amplify_video/2010997208146190336/vid/avc1/720x1280/SvXCvn4ce1DzjSbx.mp4",
-      "miss_count": 2
+      "last_updated": "2026-08-02T03:25:28",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260114140355im_/https://video.twimg.com/amplify_video/2010997208146190336/vid/avc1/720x1280/SvXCvn4ce1DzjSbx.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7fd8f18170>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2011984494874804227/vid/avc1/1080x1892/mjT2VWz2GJcWWYsR.mp4": {
       "status": "done",
@@ -11908,7 +11908,7 @@
       "miss_count": 2
     },
     "20251006082921_twitter_com_AnqilaSong_status_1975116154407669797.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -11919,7 +11919,7 @@
           "https://pbs.twimg.com/profile_images/1940624825866661888/Z1K21WQ2_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T02:55:45",
+      "last_updated": "2026-08-02T03:25:14",
       "miss_count": 2
     },
     "20251006093113_twitter_com_AnqilaSong_status_1975131722665841115.json": {
@@ -12775,7 +12775,7 @@
       "last_updated": "2026-08-02T02:29:42"
     },
     "20251119050952_twitter_com_AnqilaSong_status_1991011016780759399.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -12785,7 +12785,7 @@
           "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T02:55:21",
+      "last_updated": "2026-08-02T03:25:19",
       "miss_count": 1
     },
     "20251121105935_twitter_com_AnqilaSong_status_1991823804675592351.json": {
@@ -12800,7 +12800,7 @@
       "last_updated": "2026-08-02T02:29:42"
     },
     "20251122061132_twitter_com_AnqilaSong_status_1992113699012899084.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -12810,7 +12810,7 @@
           "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T02:29:42"
+      "last_updated": "2026-08-02T03:25:24"
     },
     "20251122133950_twitter_com_AnqilaSong_status_1992226520782541247.json": {
       "status": "failed",
@@ -13842,7 +13842,7 @@
       "last_updated": "2026-08-02T02:29:45"
     },
     "20260114140355_twitter_com_AnqilaSong_status_2011439137602302237.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -13854,10 +13854,10 @@
           "https://pbs.twimg.com/profile_images/2008192234039218176/NWgeQgkD_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T02:29:45"
+      "last_updated": "2026-08-02T03:25:28"
     },
     "20260114140502_twitter_com_AnqilaSong_status_2011439418113192334.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -13869,7 +13869,7 @@
           "https://pbs.twimg.com/profile_images/2008192234039218176/NWgeQgkD_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T02:29:45"
+      "last_updated": "2026-08-02T03:25:28"
     },
     "20260116023351_twitter_com_AnqilaSong_status_2011990250541957280.json": {
       "status": "failed",
