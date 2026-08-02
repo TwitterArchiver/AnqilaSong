@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1932252675111817648",
+    "created_at": "2025-06-10T01:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T02:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932252675111817648"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1932252675111817648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我觉得当药娘三十左右就四了对我来说挺好的（）我不想衰老ww，确实不是正常人的脑回路"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1932252675111817648",
+        "created_at": "2025-06-10T01:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T02:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932252675111817648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932252675111817648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我觉得当药娘三十左右就四了对我来说挺好的（）我不想衰老ww，确实不是正常人的脑回路"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟   精神良好，暂时不会发疯（）你们可以叫我安安\n08.166/48kg          会和所有xyn，xnn回关的\n有对象awa，暂时没有下海打算  \nZN🚪48",
+        "id": "1851134609347719168",
+        "name": "AiLiAnSong🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928514425365159936/RXJeES90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 207,
+          "like_count": 337,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 68
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

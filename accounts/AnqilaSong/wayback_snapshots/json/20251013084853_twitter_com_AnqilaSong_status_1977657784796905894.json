@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1977077758615601548",
+    "created_at": "2025-10-13T08:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T09:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977657784796905894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1634807884268855297",
+          "start": 0,
+          "username": "teaGfx_MikuNET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977657784796905894",
+    "in_reply_to_user_id": "1634807884268855297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977077758615601548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teaGfx_MikuNET 还有普瑞巴林"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977077755054350336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_9vkNXYAADQW_.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1977077758615601548",
+        "created_at": "2025-10-13T08:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T09:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977657784796905894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1634807884268855297",
+              "start": 0,
+              "username": "teaGfx_MikuNET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977657784796905894",
+        "in_reply_to_user_id": "1634807884268855297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977077758615601548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teaGfx_MikuNET 还有普瑞巴林"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977077755054350336"
+          ]
+        },
+        "author_id": "1634807884268855297",
+        "conversation_id": "1977077758615601548",
+        "created_at": "2025-10-11T18:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T19:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977077758615601548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JklwngTB0b",
+              "end": 51,
+              "expanded_url": "https://x.com/teaGfx_MikuNET/status/1977077758615601548/photo/1",
+              "media_key": "3_1977077755054350336",
+              "start": 28,
+              "url": "https://t.co/JklwngTB0b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977077758615601548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10824,
+          "like_count": 190,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "愈美被ban了劳资第一个把你们这些墙内发视频的砍成血雾 https://t.co/JklwngTB0b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973019240652582912/UCF0potu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 540,
+          "like_count": 1161,
+          "listed_count": 4,
+          "media_count": 18,
+          "tweet_count": 182
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T06:45:55.000Z",
+        "description": "I'm Steve,A Student,MtF,Like to Play Chunithm | hrt:2025/6/13 | Best sister: @zhi_cheng233 | 越过高山,即为希望 | 🏳️‍⚧️ | ⊂⁠(⁠•⁠‿⁠•⁠⊂⁠ ⁠)⁠*⁠.⁠✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 77,
+                "username": "zhi_cheng233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Wv6Y7i6eyXRmZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Wv6Y7i6eyXRmZjFl",
+                "start": 0,
+                "url": "https://t.co/JltIslabUd"
+              }
+            ]
+          }
+        },
+        "id": "1634807884268855297",
+        "location": "Kongolam, Nigeria",
+        "name": "Alex_Steve🍥",
+        "pinned_tweet_id": "1948019068809707580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934959692100587520/3Q5udlze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 372,
+          "like_count": 2476,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/JltIslabUd",
+        "username": "teaGfx_MikuNET",
+        "verified": false
+      }
+    ]
+  }
+}

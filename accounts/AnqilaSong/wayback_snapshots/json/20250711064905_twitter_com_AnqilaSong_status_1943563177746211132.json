@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1941151242904101125",
+    "created_at": "2025-07-11T06:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T07:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943563177746211132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1767543015797846016",
+          "start": 0,
+          "username": "SonwOrangeJelly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943563177746211132",
+    "in_reply_to_user_id": "1767543015797846016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941692545169490301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonwOrangeJelly 蟹蟹awa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1941151242904101125",
+        "created_at": "2025-07-11T06:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T07:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943563177746211132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1767543015797846016",
+              "start": 0,
+              "username": "SonwOrangeJelly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943563177746211132",
+        "in_reply_to_user_id": "1767543015797846016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941692545169490301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonwOrangeJelly 蟹蟹awa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767543015797846016",
+        "conversation_id": "1941151242904101125",
+        "created_at": "2025-07-06T02:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T03:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941692545169490301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851134609347719168",
+              "start": 0,
+              "username": "AnqilaSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941692545169490301",
+        "in_reply_to_user_id": "1851134609347719168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941151242904101125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnqilaSong 哇好可爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟   精神正在每况愈下（）你们可以叫我安安\n08.166/48kg          会和所有xyn，xnn回关的\n（）非常想下海圆角赚钱\nZN🚪48",
+        "id": "1851134609347719168",
+        "name": "AiLiAnSong🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1933038147165671840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935297678872559616/8lOeiY0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 412,
+          "like_count": 810,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 137
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T13:28:51.000Z",
+        "description": "抓住时间的碎片，让它们闪闪发光🌠🌌\n单休社畜 & 大只佬男娘 & 二次元//\n记录女装、cos，和一些碎碎念~💭\n欢迎试着靠近~ 一起分享和分担✨\n但请别随意伤害❤️‍🩹\n\n连休中🎈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaohongshu.com/user/profile/6…",
+                "end": 23,
+                "expanded_url": "https://www.xiaohongshu.com/user/profile/67d3e06d000000000d009beb?xsec_token=YBNNS_jVVjrcHU1eUVehmQE",
+                "start": 0,
+                "url": "https://t.co/7gYlClNquG"
+              }
+            ]
+          }
+        },
+        "id": "1767543015797846016",
+        "location": "北京",
+        "name": "雪橙果冻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940586626272346112/ynzu8vef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2870,
+          "following_count": 1008,
+          "like_count": 6897,
+          "listed_count": 9,
+          "media_count": 173,
+          "tweet_count": 651
+        },
+        "url": "https://t.co/7gYlClNquG",
+        "username": "SonwOrangeJelly",
+        "verified": true
+      }
+    ]
+  }
+}

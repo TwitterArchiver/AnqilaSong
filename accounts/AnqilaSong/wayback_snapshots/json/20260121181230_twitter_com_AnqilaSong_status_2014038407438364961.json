@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2013828417582747812",
+    "created_at": "2026-01-21T18:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T19:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014038407438364961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1617923186280235014",
+          "start": 0,
+          "username": "lalice_sora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014038407438364961",
+    "in_reply_to_user_id": "1617923186280235014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013828417582747812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lalice_sora 非常抱歉中国人的素质就是这样🥹，只能说前社会主义国家现在没一个好东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013828411182194688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_KORS8aoAAsiYu.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2013828417582747812",
+        "created_at": "2026-01-21T18:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T19:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014038407438364961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617923186280235014",
+              "start": 0,
+              "username": "lalice_sora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014038407438364961",
+        "in_reply_to_user_id": "1617923186280235014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013828417582747812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lalice_sora 非常抱歉中国人的素质就是这样🥹，只能说前社会主义国家现在没一个好东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013828411182194688"
+          ]
+        },
+        "author_id": "1617923186280235014",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2013828417582747812",
+        "created_at": "2026-01-21T04:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013828417582747812"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "中国",
+              "probability": 0.842,
+              "start": 6,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlEObtPw5W",
+              "end": 120,
+              "expanded_url": "https://x.com/lalice_sora/status/2013828417582747812/photo/1",
+              "media_key": "3_2013828411182194688",
+              "start": 97,
+              "url": "https://t.co/tlEObtPw5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013828417582747812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 28648,
+          "like_count": 313,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "怖いデスけど中国のビリビリと言うsnsでめちゃくちゃ私の動画無断転載してる…みんなほとんど怖いとか顔気持ち悪いと言ってる....そんなの見て悲しすぎて泣きました，これからラリスの動画出ない，, https://t.co/tlEObtPw5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1983163136569127305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6226,
+          "following_count": 557,
+          "like_count": 1631,
+          "listed_count": 6,
+          "media_count": 55,
+          "tweet_count": 318
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T16:32:18.000Z",
+        "description": "@LaliceParfait で会えます～DM連絡予約のみ受け付けております（＾ω＾）秘密もの🤍@miokarakoto🤍 みんなと最高の時間を過ごしたい",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "LaliceParfait"
+              },
+              {
+                "end": 60,
+                "start": 48,
+                "username": "miokarakoto"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lalice.official.ec",
+                "end": 23,
+                "expanded_url": "https://lalice.official.ec/",
+                "start": 0,
+                "url": "https://t.co/CTlYUZgsqA"
+              }
+            ]
+          }
+        },
+        "id": "1617923186280235014",
+        "name": "ソラ💗3月生誕卒業",
+        "pinned_tweet_id": "2013219045231722531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928496046021443584/85po_Kzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6990,
+          "following_count": 82,
+          "like_count": 350,
+          "listed_count": 22,
+          "media_count": 173,
+          "tweet_count": 300
+        },
+        "url": "https://t.co/CTlYUZgsqA",
+        "username": "lalice_sora",
+        "verified": false
+      }
+    ]
+  }
+}

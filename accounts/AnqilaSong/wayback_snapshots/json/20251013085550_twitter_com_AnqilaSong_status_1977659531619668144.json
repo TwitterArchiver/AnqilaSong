@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1977571314165743646",
+    "created_at": "2025-10-13T08:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T09:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977659531619668144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1383473182854684674",
+          "start": 0,
+          "username": "yuanwangnan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977659531619668144",
+    "in_reply_to_user_id": "1383473182854684674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977571314165743646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanwangnan 真的有跨是为了获得的女性的优待才当跨的么，那个人真的是跨么，感觉像假的才会说出这样的话"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 918,
+        "media_key": "3_1977571154291527680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3G-fLmbEAAZsRv.jpg",
+        "width": 597
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1977571314165743646",
+        "created_at": "2025-10-13T08:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T09:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977659531619668144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1383473182854684674",
+              "start": 0,
+              "username": "yuanwangnan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977659531619668144",
+        "in_reply_to_user_id": "1383473182854684674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977571314165743646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanwangnan 真的有跨是为了获得的女性的优待才当跨的么，那个人真的是跨么，感觉像假的才会说出这样的话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977571154291527680"
+          ]
+        },
+        "author_id": "1383473182854684674",
+        "conversation_id": "1977571314165743646",
+        "created_at": "2025-10-13T03:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T04:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977571314165743646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sC77Xak0iW",
+              "end": 59,
+              "expanded_url": "https://x.com/yuanwangnan/status/1977571314165743646/photo/1",
+              "media_key": "3_1977571154291527680",
+              "start": 36,
+              "url": "https://t.co/sC77Xak0iW"
+            },
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1976162098297352517",
+              "start": 60,
+              "url": "https://t.co/hWFzgj8rJo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977571314165743646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3951,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976162098297352517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们都在引用推文，为了防止删帖，我得开始图片补档了，老资历可得保留下来 https://t.co/sC77Xak0iW https://t.co/hWFzgj8rJo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973019240652582912/UCF0potu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 540,
+          "like_count": 1161,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 184
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T17:31:36.000Z",
+        "description": "06",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/14isfourteen",
+                "end": 23,
+                "expanded_url": "http://github.com/14isfourteen",
+                "start": 0,
+                "url": "https://t.co/RbV99qPMjr"
+              }
+            ]
+          }
+        },
+        "id": "1383473182854684674",
+        "location": "广州",
+        "name": "十四",
+        "pinned_tweet_id": "1896590649316823248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829038118617088/OvMjP30T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3536,
+          "following_count": 144,
+          "like_count": 43142,
+          "listed_count": 14,
+          "media_count": 2060,
+          "tweet_count": 21637
+        },
+        "url": "https://t.co/RbV99qPMjr",
+        "username": "yuanwangnan",
+        "verified": false
+      }
+    ]
+  }
+}

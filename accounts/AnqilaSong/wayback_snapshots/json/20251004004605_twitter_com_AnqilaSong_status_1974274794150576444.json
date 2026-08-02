@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1974143915822662026",
+    "created_at": "2025-10-04T00:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T01:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974274794150576444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1928816724465561602",
+          "start": 0,
+          "username": "huzibot2"
+        },
+        {
+          "end": 21,
+          "id": "1946598569747894273",
+          "start": 10,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974274794150576444",
+    "in_reply_to_user_id": "1928816724465561602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974249457626599813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huzibot2 @xmin240286 顺直二极管思维闹麻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1974143915822662026",
+        "created_at": "2025-10-04T00:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T01:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974274794150576444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1928816724465561602",
+              "start": 0,
+              "username": "huzibot2"
+            },
+            {
+              "end": 21,
+              "id": "1946598569747894273",
+              "start": 10,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974274794150576444",
+        "in_reply_to_user_id": "1928816724465561602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974249457626599813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huzibot2 @xmin240286 顺直二极管思维闹麻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928816724465561602",
+        "conversation_id": "1974143915822662026",
+        "created_at": "2025-10-03T23:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T00:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974249457626599813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946598569747894273",
+              "start": 0,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974249457626599813",
+        "in_reply_to_user_id": "1946598569747894273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974143915822662026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmin240286 他说的没错啊你确实有唧唧🤭司马跨出闹麻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973019240652582912/UCF0potu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960,
+          "following_count": 531,
+          "like_count": 1103,
+          "listed_count": 4,
+          "media_count": 16,
+          "tweet_count": 152
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T14:12:02.000Z",
+        "description": "苹果学博士；国内自媒体全网粉丝超百万；主要给安卓人普及苹果文化教育新闻和政治！#户子说苹果",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 39,
+                "tag": "户子说苹果"
+              }
+            ]
+          }
+        },
+        "id": "1928816724465561602",
+        "name": "Eric Cartman （戒网瘾）",
+        "pinned_tweet_id": "1973721887953072128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973683545186127872/xowUwjYw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 45,
+          "like_count": 507,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 386
+        },
+        "username": "huzibot2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "🏳️‍⚧️ 含糖MtF | 🌙 INFP-T | 🧩 AS | 🔪 BPD | 🌧️ 重度抑郁 | 🩸 病娇 | ❤️ 缺爱 | 💌 想要对象 | 🚫 无性恋 | ❄️ 性冷淡 | 💊 精神药理学 | 👩‍💻 五年 C# 开发经验 | ✨类人人工智能与情感交互研究人员💖💫 | 🫂 我一直在",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 23,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 0,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥💔🩸",
+        "pinned_tweet_id": "1973669044730601696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973793735818555393/iJGXFswC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 200,
+          "like_count": 3071,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 2548
+        },
+        "url": "https://t.co/fUGMj5xj0K",
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

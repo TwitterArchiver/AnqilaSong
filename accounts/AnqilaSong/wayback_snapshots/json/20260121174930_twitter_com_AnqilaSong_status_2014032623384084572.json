@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2014032623384084572",
+    "created_at": "2026-01-21T17:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T18:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014032623384084572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1857802986837172224",
+          "start": 3,
+          "username": "LingJiaXin233"
+        },
+        {
+          "end": 32,
+          "id": "2011805883937013766",
+          "start": 19,
+          "username": "N552AAN552AA"
+        },
+        {
+          "end": 42,
+          "id": "1973585079852257280",
+          "start": 33,
+          "username": "Yanluo_W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014032623384084572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013996438553047179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LingJiaXin233: @N552AAN552AA @Yanluo_W 王牌对王牌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2014032623384084572",
+        "created_at": "2026-01-21T17:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T18:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014032623384084572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1857802986837172224",
+              "start": 3,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 32,
+              "id": "2011805883937013766",
+              "start": 19,
+              "username": "N552AAN552AA"
+            },
+            {
+              "end": 42,
+              "id": "1973585079852257280",
+              "start": 33,
+              "username": "Yanluo_W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014032623384084572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013996438553047179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LingJiaXin233: @N552AAN552AA @Yanluo_W 王牌对王牌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857802986837172224",
+        "conversation_id": "2013864763529535978",
+        "created_at": "2026-01-21T15:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013996438553047179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2011805883937013766",
+              "start": 0,
+              "username": "N552AAN552AA"
+            },
+            {
+              "end": 23,
+              "id": "1973585079852257280",
+              "start": 14,
+              "username": "Yanluo_W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013996438553047179",
+        "in_reply_to_user_id": "2011805883937013766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013864763529535978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AAN552AA @Yanluo_W 王牌对王牌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1983163136569127305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6225,
+          "following_count": 553,
+          "like_count": 1609,
+          "listed_count": 6,
+          "media_count": 55,
+          "tweet_count": 313
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "生产日期：2008.8 ｜数码爱好者｜果粉｜性别焦虑，无证含糖 ｜精神不稳定 ｜不见证，不讨论政治不感兴趣",
+        "id": "1857802986837172224",
+        "location": "心脏比羽毛重",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 422,
+          "like_count": 7566,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 2247
+        },
+        "username": "LingJiaXin233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T14:21:29.000Z",
+        "description": "08/MTX（f?/ENTP-T/双相/ADHD/BPD/断续含糖/ 小证：2025-11-14/坐标上海/oder/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/imSQNaN8M8"
+              }
+            ]
+          }
+        },
+        "id": "2011805883937013766",
+        "location": "宛平南路600号",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（五代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011806091517313029/rq4MKgBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 63,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/imSQNaN8M8",
+        "username": "N552AAN552AA",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T03:05:40.000Z",
+        "description": "MTF｜已炸柜｜努力改正性格 ing｜友跨｜心情不好不互关｜ENFT- P｜次要病症是抑郁焦虑 主要是人傻逼｜自私个人主义外加强迫症和焦虑症的王炸组合｜拆🥚大师｜爱吃蛋｜狗子：@wowo_yz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "wowo_yz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.WIKI",
+                "end": 23,
+                "expanded_url": "http://MTF.WIKI",
+                "start": 0,
+                "url": "https://t.co/vfGe2FxrYD"
+              }
+            ]
+          }
+        },
+        "id": "1973585079852257280",
+        "location": "路还长",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2013491830663397414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973594419350872067/7rhyBDCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2837,
+          "following_count": 77,
+          "like_count": 88,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 2617
+        },
+        "url": "https://t.co/vfGe2FxrYD",
+        "username": "Yanluo_W",
+        "verified": true
+      }
+    ]
+  }
+}

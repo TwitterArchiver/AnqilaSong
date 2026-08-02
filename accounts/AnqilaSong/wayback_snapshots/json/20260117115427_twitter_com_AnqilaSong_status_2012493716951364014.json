@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2012493716951364014",
+    "created_at": "2026-01-17T11:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T12:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012493716951364014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Snow_Xue_/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/Snow_Xue_/status/2012486491742540075",
+          "start": 30,
+          "url": "https://t.co/4LrpebtxFg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012493716951364014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012486491742540075",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊n55真的好可爱啊，满脑子都是n55了，水色小药娘嘿嘿😋 https://t.co/4LrpebtxFg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2012493716951364014",
+        "created_at": "2026-01-17T11:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T12:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012493716951364014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snow_Xue_/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Snow_Xue_/status/2012486491742540075",
+              "start": 30,
+              "url": "https://t.co/4LrpebtxFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012493716951364014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012486491742540075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊n55真的好可爱啊，满脑子都是n55了，水色小药娘嘿嘿😋 https://t.co/4LrpebtxFg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885154179922227200",
+        "conversation_id": "2012486491742540075",
+        "created_at": "2026-01-17T11:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T12:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012486491742540075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eve_city/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/eve_city/status/2012452281409757264",
+              "start": 30,
+              "url": "https://t.co/jpYcGLNDnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012486491742540075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012452281409757264",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊n55真的好可爱啊，满脑子都是n55了，水色小药娘嘿嘿😋 https://t.co/jpYcGLNDnq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1983163136569127305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6242,
+          "following_count": 544,
+          "like_count": 1574,
+          "listed_count": 6,
+          "media_count": 55,
+          "tweet_count": 304
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | 生产日期2010.3.16 | 无证含糖 | 🍥hrt 2025.11 |\n| b站：屑冷雪 / 屑冷雪_ |\n提问箱 https://t.co/Z0xh9tLJZh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 94,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 71,
+                "url": "https://t.co/Z0xh9tLJZh"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海 ",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2006664118678466579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011071927880990725/RFlHroBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 1392,
+          "like_count": 39363,
+          "listed_count": 2,
+          "media_count": 497,
+          "tweet_count": 3777
+        },
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

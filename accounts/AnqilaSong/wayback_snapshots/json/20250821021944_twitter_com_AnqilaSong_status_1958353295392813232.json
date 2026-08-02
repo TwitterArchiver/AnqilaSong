@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958353291710185472"
+      ]
+    },
+    "author_id": "1851134609347719168",
+    "conversation_id": "1958353295392813232",
+    "created_at": "2025-08-21T02:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T03:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958353295392813232"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "mtf"
+        },
+        {
+          "end": 8,
+          "start": 5,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ET2gDihlxd",
+          "end": 113,
+          "expanded_url": "https://x.com/AnqilaSong/status/1958353295392813232/photo/1",
+          "media_key": "3_1958353291710185472",
+          "start": 90,
+          "url": "https://t.co/ET2gDihlxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958353295392813232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#mtf #药娘 以前我退学的时候我妈经常给我说，说不读书以后没出息什么都干不了，但我老是想给她说读书有什么用，差不多读一点就好了，反正以后大不了去卖🤣，好的话被人包养不就好了🥺 https://t.co/ET2gDihlxd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2130,
+        "media_key": "3_1958353291710185472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy138WkaQAAAsl_.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958353291710185472"
+          ]
+        },
+        "author_id": "1851134609347719168",
+        "conversation_id": "1958353295392813232",
+        "created_at": "2025-08-21T02:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T03:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958353295392813232"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "mtf"
+            },
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ET2gDihlxd",
+              "end": 113,
+              "expanded_url": "https://x.com/AnqilaSong/status/1958353295392813232/photo/1",
+              "media_key": "3_1958353291710185472",
+              "start": 90,
+              "url": "https://t.co/ET2gDihlxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958353295392813232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#mtf #药娘 以前我退学的时候我妈经常给我说，说不读书以后没出息什么都干不了，但我老是想给她说读书有什么用，差不多读一点就好了，反正以后大不了去卖🤣，好的话被人包养不就好了🥺 https://t.co/ET2gDihlxd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951795167171694592/Opie5SkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 479,
+          "like_count": 959,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 100
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

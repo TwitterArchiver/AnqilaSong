@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1930361856172151252",
+    "created_at": "2025-06-06T04:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T05:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930837453499138526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1464881472964382732",
+          "start": 0,
+          "username": "mengguyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930837453499138526",
+    "in_reply_to_user_id": "1464881472964382732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930361856172151252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengguyi xyn还想草别人，乖乖撅着等艾草吧😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1930361856172151252",
+        "created_at": "2025-06-06T04:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T05:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930837453499138526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464881472964382732",
+              "start": 0,
+              "username": "mengguyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930837453499138526",
+        "in_reply_to_user_id": "1464881472964382732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930361856172151252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengguyi xyn还想草别人，乖乖撅着等艾草吧😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464881472964382732",
+        "conversation_id": "1930361856172151252",
+        "created_at": "2025-06-04T20:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T21:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930361856172151252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930361856172151252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7723,
+          "like_count": 89,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小男娘叽里咕噜说什么呢，准备艾草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟\n08.166/48kg\n有对象awa，暂时没有下海打算",
+        "id": "1851134609347719168",
+        "location": "CQ",
+        "name": "songAnqila🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928514425365159936/RXJeES90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 50,
+          "like_count": 190,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 42
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T08:59:07.000Z",
+        "description": "GNU/Linux用户｜超业余级的Golang开发者｜19 y.o.｜个人TG: https://t.co/sId7D2qEtH｜GitHub: https://t.co/H0qW1rtPXv｜可也以叫我安然或者孟安然｜MTF🏳️‍⚧️｜实习圆角｜Nya! 若账号被限制请 @mengguyi2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "mengguyi2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mengguyi",
+                "end": 64,
+                "expanded_url": "https://t.me/mengguyi",
+                "start": 41,
+                "url": "https://t.co/sId7D2qEtH"
+              },
+              {
+                "display_url": "github.com/mengguyi",
+                "end": 96,
+                "expanded_url": "https://github.com/mengguyi",
+                "start": 73,
+                "url": "https://t.co/H0qW1rtPXv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengguyi.com",
+                "end": 23,
+                "expanded_url": "https://mengguyi.com",
+                "start": 0,
+                "url": "https://t.co/TS2nZD0GVY"
+              }
+            ]
+          }
+        },
+        "id": "1464881472964382732",
+        "location": "Macau",
+        "name": "孟古一🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775795384096600065/vu5kAWL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 1101,
+          "like_count": 38583,
+          "listed_count": 5,
+          "media_count": 920,
+          "tweet_count": 3899
+        },
+        "url": "https://t.co/TS2nZD0GVY",
+        "username": "mengguyi",
+        "verified": false
+      }
+    ]
+  }
+}

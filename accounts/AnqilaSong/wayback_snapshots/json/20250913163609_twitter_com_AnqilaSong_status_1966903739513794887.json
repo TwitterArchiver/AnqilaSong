@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1965607236409217445",
+    "created_at": "2025-09-13T16:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T17:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966903739513794887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1879338554511495168",
+          "start": 0,
+          "username": "BAshirasu_1226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966903739513794887",
+    "in_reply_to_user_id": "1879338554511495168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965607236409217445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BAshirasu_1226 想知道这个药叫什么名字，我也想打🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1965607231229231109",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0c9XNFbgAUF2_W.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1965607236409217445",
+        "created_at": "2025-09-13T16:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T17:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966903739513794887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1879338554511495168",
+              "start": 0,
+              "username": "BAshirasu_1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966903739513794887",
+        "in_reply_to_user_id": "1879338554511495168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965607236409217445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BAshirasu_1226 想知道这个药叫什么名字，我也想打🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965607231229231109"
+          ]
+        },
+        "author_id": "1879338554511495168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1965607236409217445",
+        "created_at": "2025-09-10T02:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T03:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965607236409217445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GXSjixnHop",
+              "end": 29,
+              "expanded_url": "https://x.com/BAshirasu_1226/status/1965607236409217445/photo/1",
+              "media_key": "3_1965607231229231109",
+              "start": 6,
+              "url": "https://t.co/GXSjixnHop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965607236409217445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10105,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最后一针孕 https://t.co/GXSjixnHop"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951795167171694592/Opie5SkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 501,
+          "like_count": 992,
+          "listed_count": 4,
+          "media_count": 13,
+          "tweet_count": 113
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T01:23:30.000Z",
+        "description": "06年 Mtf or MtX |翻车顺男|家长党|175cm/70kg|双相|精分|ENFP-T|抽象纯神人|音游入（底力恢复ing）|HRT2024.4.22|自切时间2025.6.10|BA厨小梓，舟厨特蕾西娅|闲散人员一只|永远爱@Takina_Jimato|里推:@mai_HAYASE_chu|🚪:77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "Takina_Jimato"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "mai_HAYASE_chu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/wlKM5cp85J"
+              }
+            ]
+          }
+        },
+        "id": "1879338554511495168",
+        "location": "SBGA",
+        "name": "Hayase.TPZ🍥🏳️‍⚧️🇹🇼🇯🇵 1989.6.4",
+        "pinned_tweet_id": "1954218012543680795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930520629725614080/-on79J_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12002,
+          "following_count": 336,
+          "like_count": 1166,
+          "listed_count": 12,
+          "media_count": 187,
+          "tweet_count": 1309
+        },
+        "url": "https://t.co/wlKM5cp85J",
+        "username": "BAshirasu_1226",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1979128148601049230",
+    "created_at": "2025-10-18T09:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T10:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979483801970692422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1824818634809806848",
+          "start": 0,
+          "username": "hsgmxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979483801970692422",
+    "in_reply_to_user_id": "1824818634809806848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979128148601049230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsgmxz 涩图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1979128148601049230",
+        "created_at": "2025-10-18T09:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T10:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979483801970692422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1824818634809806848",
+              "start": 0,
+              "username": "hsgmxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979483801970692422",
+        "in_reply_to_user_id": "1824818634809806848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979128148601049230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsgmxz 涩图"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824818634809806848",
+        "conversation_id": "1979128148601049230",
+        "created_at": "2025-10-17T10:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979128148601049230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979128148601049230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1649,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发点什么会火呢🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973019240652582912/UCF0potu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 541,
+          "like_count": 1183,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 195
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|14岁mtf🏳️‍⚧️|🍥2025.7.26|初音ミク大好き。🥰|11.1.24|同类互fo|欢迎贴贴😺|极度社恐|重焦重郁|intp-t|匿名提问箱https://t.co/eJ9r7Nq5dA|❤️@hrklovehonoka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 137,
+                "username": "hrklovehonoka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hsgmxz1",
+                "end": 134,
+                "expanded_url": "http://ngl.link/hsgmxz1",
+                "start": 111,
+                "url": "https://t.co/eJ9r7Nq5dA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mx_honoka",
+                "end": 23,
+                "expanded_url": "http://t.me/mx_honoka",
+                "start": 0,
+                "url": "https://t.co/Xrx6CgHeeR"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1976137894059462813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956290303792660480/uak33Kmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 1182,
+          "like_count": 7403,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1191
+        },
+        "url": "https://t.co/Xrx6CgHeeR",
+        "username": "hsgmxz",
+        "verified": false
+      }
+    ]
+  }
+}

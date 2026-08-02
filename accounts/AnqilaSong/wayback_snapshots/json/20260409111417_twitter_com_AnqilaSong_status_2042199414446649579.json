@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1972574433945813173",
+    "created_at": "2026-04-09T11:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T12:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042199414446649579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1956693909310234624",
+          "start": 0,
+          "username": "KaythshaSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042199414446649579",
+    "in_reply_to_user_id": "1956693909310234624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972574433945813173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaythshaSama 咕咕嘎嘎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1972574433945813173",
+        "created_at": "2026-04-09T11:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042199414446649579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1956693909310234624",
+              "start": 0,
+              "username": "KaythshaSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042199414446649579",
+        "in_reply_to_user_id": "1956693909310234624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972574433945813173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaythshaSama 咕咕嘎嘎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956693909310234624",
+        "conversation_id": "1972574433945813173",
+        "created_at": "2025-09-29T08:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T09:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972574433945813173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972574433945813173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实习医学生的愉悦时刻：\n被老师允许自己操作\n被老师投喂零食\n老师拿出饭卡说去食堂随便吃随便买\n٩( 'ω' )و"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1983163136569127305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5828,
+          "following_count": 536,
+          "like_count": 1805,
+          "listed_count": 5,
+          "media_count": 56,
+          "tweet_count": 364
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T12:28:03.000Z",
+        "description": "只想做满天繁星的梦……（目前常驻北京，可能是北漂QAQ）",
+        "id": "1956693909310234624",
+        "name": "喀秋莎sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967253186940440576/X6u08DeM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 12,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "KaythshaSama",
+        "verified": false
+      }
+    ]
+  }
+}

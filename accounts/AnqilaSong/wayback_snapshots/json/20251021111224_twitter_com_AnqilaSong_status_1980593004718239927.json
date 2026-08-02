@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1980029451347083498",
+    "created_at": "2025-10-21T11:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T12:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980593004718239927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3318278592",
+          "start": 0,
+          "username": "BigglesworthX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980593004718239927",
+    "in_reply_to_user_id": "3318278592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980029451347083498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigglesworthX 我吃😝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1237,
+        "media_key": "3_1980029423114993664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3p6RQmXQAA_0m1.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1980029451347083498",
+        "created_at": "2025-10-21T11:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980593004718239927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3318278592",
+              "start": 0,
+              "username": "BigglesworthX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980593004718239927",
+        "in_reply_to_user_id": "3318278592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980029451347083498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigglesworthX 我吃😝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980029423114993664"
+          ]
+        },
+        "author_id": "3318278592",
+        "conversation_id": "1980029451347083498",
+        "created_at": "2025-10-19T21:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T22:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980029451347083498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y9pXYtNEXN",
+              "end": 34,
+              "expanded_url": "https://x.com/BigglesworthX/status/1980029451347083498/photo/1",
+              "media_key": "3_1980029423114993664",
+              "start": 11,
+              "url": "https://t.co/y9pXYtNEXN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980029451347083498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 56333,
+          "like_count": 448,
+          "quote_count": 13,
+          "reply_count": 134,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "今天的盒饭有点不对劲 https://t.co/y9pXYtNEXN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973019240652582912/UCF0potu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 545,
+          "like_count": 1191,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 200
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider",
+        "id": "3318278592",
+        "location": "San Francisco",
+        "name": "Hoggicosa bisexsual",
+        "pinned_tweet_id": "1975130443772199069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 731,
+          "like_count": 2066,
+          "listed_count": 2,
+          "media_count": 693,
+          "tweet_count": 3333
+        },
+        "username": "BigglesworthX",
+        "verified": true
+      }
+    ]
+  }
+}

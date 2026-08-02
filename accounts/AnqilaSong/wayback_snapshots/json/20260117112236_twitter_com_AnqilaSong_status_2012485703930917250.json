@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2012334615910879305",
+    "created_at": "2026-01-17T11:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T12:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012485703930917250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "905235370043834368",
+          "start": 0,
+          "username": "KitsuneKumiChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012485703930917250",
+    "in_reply_to_user_id": "905235370043834368",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012485284588658707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KitsuneKumiChan Okay, I was wrong and I apologize to you"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2012334615910879305",
+        "created_at": "2026-01-17T11:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T12:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012485703930917250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "905235370043834368",
+              "start": 0,
+              "username": "KitsuneKumiChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012485703930917250",
+        "in_reply_to_user_id": "905235370043834368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012485284588658707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KitsuneKumiChan Okay, I was wrong and I apologize to you"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "905235370043834368",
+        "conversation_id": "2012334615910879305",
+        "created_at": "2026-01-17T11:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T12:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012485284588658707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851134609347719168",
+              "start": 0,
+              "username": "AnqilaSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012485284588658707",
+        "in_reply_to_user_id": "1851134609347719168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012484194929168779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnqilaSong This is a real photo, not edited at all; it's just the camera angle that's the difference. 🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1983163136569127305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6242,
+          "following_count": 544,
+          "like_count": 1568,
+          "listed_count": 6,
+          "media_count": 55,
+          "tweet_count": 303
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-06T01:05:05.000Z",
+        "description": "🩷ชอบคนเปย์ /ไม่คุยเล่น 🔞クミ『 コン 』† 🦊🌸⛩️ １９歳 １６０ｃｍ 🌸 【EveryKumiArt】tag #KumiChanART or DM #VtuberTH Support me. https://t.co/Fb9dMjTgy9🍡💖",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 69,
+                "tag": "KumiChanART"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "tag": "VtuberTH"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/KitsuneKumiChan",
+                "end": 133,
+                "expanded_url": "https://www.patreon.com/KitsuneKumiChan",
+                "start": 110,
+                "url": "https://t.co/Fb9dMjTgy9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KitsuneKumiCh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KitsuneKumiChan",
+                "start": 0,
+                "url": "https://t.co/0mckWcCIDK"
+              }
+            ]
+          }
+        },
+        "id": "905235370043834368",
+        "name": "🦊🌸⛩️",
+        "pinned_tweet_id": "1967060059965583683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993873266851921920/yE3z7CQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36789,
+          "following_count": 231,
+          "like_count": 31611,
+          "listed_count": 34,
+          "media_count": 1459,
+          "tweet_count": 4931
+        },
+        "url": "https://t.co/0mckWcCIDK",
+        "username": "KitsuneKumiChan",
+        "verified": false
+      }
+    ]
+  }
+}

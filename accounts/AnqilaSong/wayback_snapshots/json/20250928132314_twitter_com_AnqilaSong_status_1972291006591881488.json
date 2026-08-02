@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1971948594405298578",
+    "created_at": "2025-09-28T13:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T14:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972291006591881488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1723532985679704064",
+          "start": 0,
+          "username": "HFLMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972291006591881488",
+    "in_reply_to_user_id": "1723532985679704064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971948594405298578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HFLMTF 我们抖音有互关刷到你了awa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971948581750972416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13EyYqaIAAzx9n.jpg",
+        "width": 1067
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971948582564777991",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13Eybsb0AcOOhl.jpg",
+        "width": 1067
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1971948589753765888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13Ey2ebEAAyA4i.jpg",
+        "width": 1067
+      },
+      {
+        "height": 657,
+        "media_key": "3_1971948575287590912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13EyAlawAAarSN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1971948594405298578",
+        "created_at": "2025-09-28T13:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T14:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972291006591881488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1723532985679704064",
+              "start": 0,
+              "username": "HFLMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972291006591881488",
+        "in_reply_to_user_id": "1723532985679704064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971948594405298578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HFLMTF 我们抖音有互关刷到你了awa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971948581750972416",
+            "3_1971948582564777991",
+            "3_1971948589753765888",
+            "3_1971948575287590912"
+          ]
+        },
+        "author_id": "1723532985679704064",
+        "conversation_id": "1971948594405298578",
+        "created_at": "2025-09-27T14:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T15:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971948594405298578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LfB4AN3boT",
+              "end": 54,
+              "expanded_url": "https://x.com/HFLMTF/status/1971948594405298578/photo/1",
+              "media_key": "3_1971948581750972416",
+              "start": 31,
+              "url": "https://t.co/LfB4AN3boT"
+            },
+            {
+              "display_url": "pic.x.com/LfB4AN3boT",
+              "end": 54,
+              "expanded_url": "https://x.com/HFLMTF/status/1971948594405298578/photo/1",
+              "media_key": "3_1971948582564777991",
+              "start": 31,
+              "url": "https://t.co/LfB4AN3boT"
+            },
+            {
+              "display_url": "pic.x.com/LfB4AN3boT",
+              "end": 54,
+              "expanded_url": "https://x.com/HFLMTF/status/1971948594405298578/photo/1",
+              "media_key": "3_1971948589753765888",
+              "start": 31,
+              "url": "https://t.co/LfB4AN3boT"
+            },
+            {
+              "display_url": "pic.x.com/LfB4AN3boT",
+              "end": 54,
+              "expanded_url": "https://x.com/HFLMTF/status/1971948594405298578/photo/1",
+              "media_key": "3_1971948575287590912",
+              "start": 31,
+              "url": "https://t.co/LfB4AN3boT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971948594405298578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1151,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宿舍杀人王海浮林😨\n(本来想拍病娇的感觉的，结果越看越唐氏) https://t.co/LfB4AN3boT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951795167171694592/Opie5SkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 525,
+          "like_count": 1080,
+          "listed_count": 4,
+          "media_count": 16,
+          "tweet_count": 132
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:47:55.000Z",
+        "description": "2007出厂/大一喽😋/165-46kg/是mtf🏳️‍⚧️/持证含糖🧐/欢迎扩列(记得私信)喵~/🚪可能有吧？/🧊🍵酱是我⭐💢(兼老公)@coldtea2025   /   🙏特注:推上搞搞抽象滴，本人完全不一样的，请勿上纲上线当真喽~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "coldtea2025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hfabc.cn",
+                "end": 23,
+                "expanded_url": "https://www.hfabc.cn/",
+                "start": 0,
+                "url": "https://t.co/gVcRWnsHpA"
+              }
+            ]
+          }
+        },
+        "id": "1723532985679704064",
+        "location": "你心里❤️",
+        "name": "HFRin🏳️‍⚧️",
+        "pinned_tweet_id": "1963271742782427557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906154664061784064/SJLzvXuT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2048,
+          "following_count": 167,
+          "like_count": 1584,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 1746
+        },
+        "url": "https://t.co/gVcRWnsHpA",
+        "username": "HFLMTF",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1939673416694718932",
+    "created_at": "2025-06-30T13:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T14:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939673416694718932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1885154179922227200",
+          "start": 3,
+          "username": "Snow_Xue_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939673416694718932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939648652424958298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Snow_Xue_: 怎么圆角爆米这么快看的我也想下海了来钱真太快了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1939673416694718932",
+        "created_at": "2025-06-30T13:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T14:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939673416694718932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1885154179922227200",
+              "start": 3,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939673416694718932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939648652424958298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Snow_Xue_: 怎么圆角爆米这么快看的我也想下海了来钱真太快了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885154179922227200",
+        "conversation_id": "1939648652424958298",
+        "created_at": "2025-06-30T11:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T12:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939648652424958298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KagurazakaAzur…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/KagurazakaAzure/status/1939646068012290298",
+              "start": 24,
+              "url": "https://t.co/43CiNtRU5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939648652424958298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939646068012290298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么圆角爆米这么快看的我也想下海了来钱真太快了 https://t.co/43CiNtRU5R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟   精神正在每况愈下（）你们可以叫我安安\n08.166/48kg          会和所有xyn，xnn回关的\n（）非常想下海圆角赚钱\nZN🚪48",
+        "id": "1851134609347719168",
+        "name": "AiLiAnSong🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1933038147165671840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935297678872559616/8lOeiY0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 397,
+          "like_count": 662,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 122
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "(家里最近好像没咋管我)🍥，没一点天赋:(\n生产日期2010.3.16",
+        "id": "1885154179922227200",
+        "location": "上海 ",
+        "name": "雪🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906588909070589953/QQGqwlVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 778,
+          "like_count": 16218,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1153
+        },
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

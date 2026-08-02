@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2010997290937565551",
+    "created_at": "2026-01-14T14:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T15:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011439137602302237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1955596795905740800",
+          "start": 0,
+          "username": "tang1314tang520"
+        },
+        {
+          "end": 28,
+          "id": "2002272338428231680",
+          "start": 17,
+          "username": "dangao0709"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011439137602302237",
+    "in_reply_to_user_id": "1955596795905740800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010997290937565551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang1314tang520 @dangao0709 想问问做这个花了多少钱，在哪做的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21841,
+        "height": 1280,
+        "media_key": "13_2010997208146190336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010997208146190336/img/AsD3AQPjrpq9w_Ig.jpg",
+        "public_metrics": {
+          "view_count": 12406
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010997208146190336/vid/avc1/320x568/BWZ5vk-tANyBsta0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010997208146190336/vid/avc1/480x852/C2PramvN5lHkshc1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010997208146190336/vid/avc1/720x1280/SvXCvn4ce1DzjSbx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010997208146190336/pl/COmmaxTLDasesgNP.m3u8?v=c1c"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2010997290937565551",
+        "created_at": "2026-01-14T14:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T15:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011439137602302237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1955596795905740800",
+              "start": 0,
+              "username": "tang1314tang520"
+            },
+            {
+              "end": 28,
+              "id": "2002272338428231680",
+              "start": 17,
+              "username": "dangao0709"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011439137602302237",
+        "in_reply_to_user_id": "1955596795905740800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010997290937565551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang1314tang520 @dangao0709 想问问做这个花了多少钱，在哪做的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010997208146190336"
+          ]
+        },
+        "author_id": "1955596795905740800",
+        "conversation_id": "2010997290937565551",
+        "created_at": "2026-01-13T08:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T09:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010997290937565551"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "男娘"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "伪娘"
+            },
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "药娘"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "srs"
+            },
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "femboy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 25,
+              "id": "2002272338428231680",
+              "start": 14,
+              "username": "dangao0709"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HSTxIKRm4D",
+              "end": 83,
+              "expanded_url": "https://x.com/tang1314tang520/status/2010997290937565551/video/1",
+              "media_key": "13_2010997208146190336",
+              "start": 60,
+              "url": "https://t.co/HSTxIKRm4D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010997290937565551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 26174,
+          "like_count": 165,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "割完蛋后 变成企鹅人的小药娘@dangao0709\n#男娘 #伪娘 #可爱的男孩子 #药娘 #srs \n#femboy https://t.co/HSTxIKRm4D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1983163136569127305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6264,
+          "following_count": 544,
+          "like_count": 1564,
+          "listed_count": 6,
+          "media_count": 55,
+          "tweet_count": 299
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T11:46:33.000Z",
+        "description": "常驻魔都，是🧑‍🏫 跑江浙沪居多，04/166cm/115斤/37码🦶🏻 上海本地211毕业。男娘s ，私信生理课📕补习 请直接了当，飞机@tang520tang13140 小号@tang520tang1314 #沈阳 #北京  宝贝@dangao0709",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 106,
+                "tag": "沈阳"
+              },
+              {
+                "end": 113,
+                "start": 110,
+                "tag": "北京"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 86,
+                "start": 69,
+                "username": "tang520tang13140"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "tang520tang1314"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "dangao0709"
+              }
+            ]
+          }
+        },
+        "id": "1955596795905740800",
+        "location": "魔都～58",
+        "name": "糖糖Sugar Doll（互推版）",
+        "pinned_tweet_id": "2010199180636238124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998922957473910784/cK3PuDvJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7786,
+          "following_count": 130,
+          "like_count": 335,
+          "listed_count": 50,
+          "media_count": 42,
+          "tweet_count": 258
+        },
+        "username": "tang1314tang520",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T06:58:29.000Z",
+        "description": "我是小蛋糕！168/49kg/🦶36 木桶饭小钥酿 已切蛋  纸飞机上的小蛋糕  喜欢的私信窝\n我家宝贝@tang1314tang520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "tang1314tang520"
+              }
+            ]
+          }
+        },
+        "id": "2002272338428231680",
+        "name": "爱吃🍬的小蛋糕",
+        "pinned_tweet_id": "2010974759828500590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008192234039218176/NWgeQgkD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 28,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 58
+        },
+        "username": "dangao0709",
+        "verified": false
+      }
+    ]
+  }
+}

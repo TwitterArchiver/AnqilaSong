@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1885655569089851516",
+    "created_at": "2025-02-02T10:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T11:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886006540802687372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880785650921963520",
+          "start": 0,
+          "username": "hound3399"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886006540802687372",
+    "in_reply_to_user_id": "1880785650921963520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885684595758432463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hound3399 pdd买的，擦不干净😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1885655569089851516",
+        "created_at": "2025-02-02T10:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T11:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886006540802687372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880785650921963520",
+              "start": 0,
+              "username": "hound3399"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886006540802687372",
+        "in_reply_to_user_id": "1880785650921963520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885684595758432463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hound3399 pdd买的，擦不干净😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880785650921963520",
+        "conversation_id": "1885655569089851516",
+        "created_at": "2025-02-01T13:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T14:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885684595758432463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851134609347719168",
+              "start": 0,
+              "username": "AnqilaSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885684595758432463",
+        "in_reply_to_user_id": "1851134609347719168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885655569089851516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnqilaSong 挺不错的嘛，不过镜子是不是要擦一下了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "小南梁，上一世-AiLiAnSong\nqwq，有一点神经，不要和我越跑😡我还是很洁身自好的😭只是有一点黄黄的😋\n请不要和我讨论政治QAQ\n166/48kg\n2008，9，19",
+        "id": "1851134609347719168",
+        "location": "CQ",
+        "name": "songAnqila",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851134758270717952/1TP5KDNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 41,
+          "like_count": 99,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 13
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T01:13:45.000Z",
+        "description": "",
+        "id": "1880785650921963520",
+        "location": "中国",
+        "name": "无柠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880787380669763584/E6NUsVs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "hound3399",
+        "verified": false
+      }
+    ]
+  }
+}

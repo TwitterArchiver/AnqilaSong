@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1960259172525875495",
+    "created_at": "2025-08-26T10:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T11:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960282562439553103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4229371640",
+          "start": 0,
+          "username": "ringochichidim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960282562439553103",
+    "in_reply_to_user_id": "4229371640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960259172525875495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ringochichidim 抱抱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1960259172525875495].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1960259172525875495",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1960259172525875495"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1960259172525875495",
+        "created_at": "2025-08-26T10:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960282562439553103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4229371640",
+              "start": 0,
+              "username": "ringochichidim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960282562439553103",
+        "in_reply_to_user_id": "4229371640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960259172525875495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringochichidim 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951795167171694592/Opie5SkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1869,
+          "following_count": 499,
+          "like_count": 979,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 105
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T01:26:50.000Z",
+        "description": "奇奇，是個無情的抱抱機器。\nこいびと：@Littlecat111007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "Littlecat111007"
+              }
+            ]
+          }
+        },
+        "id": "4229371640",
+        "location": "Latium",
+        "name": "窮奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723951782311952384/8ApLa6F9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 1489,
+          "like_count": 37174,
+          "listed_count": 7,
+          "media_count": 3123,
+          "tweet_count": 10135
+        },
+        "username": "ringochichidim",
+        "verified": false
+      }
+    ]
+  }
+}

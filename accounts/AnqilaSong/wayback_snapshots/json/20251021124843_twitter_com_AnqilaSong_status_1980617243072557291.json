@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1980593875099234373",
+    "created_at": "2025-10-21T12:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T13:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980617243072557291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1957378423325884416",
+          "start": 0,
+          "username": "ji_ru344"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980617243072557291",
+    "in_reply_to_user_id": "1957378423325884416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980594968575242406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_ru344 嗑药和喝盐不也难受嘛，特别是喝盐醉难受了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1980593875099234373",
+        "created_at": "2025-10-21T12:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980617243072557291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1957378423325884416",
+              "start": 0,
+              "username": "ji_ru344"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980617243072557291",
+        "in_reply_to_user_id": "1957378423325884416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980594968575242406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_ru344 嗑药和喝盐不也难受嘛，特别是喝盐醉难受了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957378423325884416",
+        "conversation_id": "1980593875099234373",
+        "created_at": "2025-10-21T11:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980594968575242406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851134609347719168",
+              "start": 0,
+              "username": "AnqilaSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980594968575242406",
+        "in_reply_to_user_id": "1851134609347719168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980593875099234373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnqilaSong 可能是怕疼吧🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973019240652582912/UCF0potu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 545,
+          "like_count": 1195,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 203
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T09:46:18.000Z",
+        "description": "4i/1i switch 喜欢视奸喜欢的人 帖子随便发的",
+        "id": "1957378423325884416",
+        "location": "Japan",
+        "name": "喜欢点赞丑的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957378645393338368/cEaxRe4f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 16,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "username": "ji_ru344",
+        "verified": false
+      }
+    ]
+  }
+}

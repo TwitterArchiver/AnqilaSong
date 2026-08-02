@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1945533635882590543",
+    "created_at": "2025-07-17T01:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T02:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945654889884852709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1797202819415752705",
+          "start": 0,
+          "username": "xwdlwr"
+        },
+        {
+          "end": 19,
+          "id": "1851134609347719168",
+          "start": 8,
+          "username": "AnqilaSong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945654889884852709",
+    "in_reply_to_user_id": "1797202819415752705",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945533635882590543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xwdlwr @AnqilaSong"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1945533635882590543",
+        "created_at": "2025-07-17T01:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T02:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945654889884852709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1797202819415752705",
+              "start": 0,
+              "username": "xwdlwr"
+            },
+            {
+              "end": 19,
+              "id": "1851134609347719168",
+              "start": 8,
+              "username": "AnqilaSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945654889884852709",
+        "in_reply_to_user_id": "1797202819415752705",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945533635882590543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xwdlwr @AnqilaSong"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797202819415752705",
+        "conversation_id": "1945533635882590543",
+        "created_at": "2025-07-16T17:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T18:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945533635882590543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945533635882590543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 419,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁是圈内的香草榜，必吃榜的no.1，@出来窝看看😍😍😍😍🤤🤤🤤🤤😋😋😋😋😙😙😙😙🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935297678872559616/8lOeiY0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 433,
+          "like_count": 854,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 72
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T09:45:30.000Z",
+        "description": "山竹別跑!!!/ 15岁高中无证含糖 🍥/玉林/ 喜欢睡觉 / 喜欢熬\n夜?/ 不想学习啦!!!/ 非常宅.…./随时可互fo / 其实是10\n后 / 不抽烟不喝酒不od不自残不自杀 / 168cm 53kg /不是机\n器人呀/HRT2025.3.22 \n已死保留@wdhswwcnm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 132,
+                "username": "wdhswwcnm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BAsensei",
+                "end": 23,
+                "expanded_url": "http://t.me/BAsensei",
+                "start": 0,
+                "url": "https://t.co/FvuOqGdCtL"
+              }
+            ]
+          }
+        },
+        "id": "1797202819415752705",
+        "location": "你❤️里",
+        "name": "爱吃山竹口牙🍥（慢性互fo版）🤤😚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941750149027373056/vmBXCc-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 246,
+          "like_count": 2118,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 574
+        },
+        "url": "https://t.co/FvuOqGdCtL",
+        "username": "xwdlwr",
+        "verified": false
+      }
+    ]
+  }
+}

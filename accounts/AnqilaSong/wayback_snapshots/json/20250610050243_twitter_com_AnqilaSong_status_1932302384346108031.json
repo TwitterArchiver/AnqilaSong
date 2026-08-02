@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1932094935794081864",
+    "created_at": "2025-06-10T05:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T06:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932302384346108031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1794131217463615488",
+          "start": 0,
+          "username": "satsushou_sonn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932302384346108031",
+    "in_reply_to_user_id": "1794131217463615488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932294486882988296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satsushou_sonn 就o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1932094935794081864",
+        "created_at": "2025-06-10T05:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T06:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932302384346108031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1794131217463615488",
+              "start": 0,
+              "username": "satsushou_sonn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932302384346108031",
+        "in_reply_to_user_id": "1794131217463615488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932294486882988296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satsushou_sonn 就o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794131217463615488",
+        "conversation_id": "1932094935794081864",
+        "created_at": "2025-06-10T04:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T05:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932294486882988296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851134609347719168",
+              "start": 0,
+              "username": "AnqilaSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932294486882988296",
+        "in_reply_to_user_id": "1851134609347719168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932094935794081864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnqilaSong 不许o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟   精神良好，暂时不会发疯（）你们可以叫我安安\n08.166/48kg          会和所有xyn，xnn回关的\n有对象awa，暂时没有下海打算  \nZN🚪48",
+        "id": "1851134609347719168",
+        "name": "AiLiAnSong🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928514425365159936/RXJeES90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 213,
+          "like_count": 347,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 70
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T22:20:05.000Z",
+        "description": "加奈ちゃん/カナちゃん（ka na chan） ｜希望和大家作为好朋友，基本上fo的都会回｜头像画师：@yangyan88596853｜中国からの友情，ご清聴ありがとうございました，私は日本語が話せませんが、英語または通訳を通してコミュニケーションを取ることができます。皆様のご無事をお祈り申し上げます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "yangyan88596853"
+              }
+            ]
+          }
+        },
+        "id": "1794131217463615488",
+        "location": "中华人民共和国",
+        "name": "加奈ちゃん",
+        "pinned_tweet_id": "1889937031511548353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876295299439939584/KPTvk2v1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2769,
+          "following_count": 3843,
+          "like_count": 1868,
+          "listed_count": 9,
+          "media_count": 244,
+          "tweet_count": 4892
+        },
+        "username": "satsushou_sonn",
+        "verified": false
+      }
+    ]
+  }
+}

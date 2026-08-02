@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1977784784853340389",
+    "created_at": "2025-10-14T01:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T02:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977907216041857391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1663923642852610049",
+          "start": 0,
+          "username": "yyddjuebudantei"
+        },
+        {
+          "end": 25,
+          "id": "1470410046353858565",
+          "start": 17,
+          "username": "miumcii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977907216041857391",
+    "in_reply_to_user_id": "1663923642852610049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977884135180919084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyddjuebudantei @miumcii 你的意思是别人必须每顿只能吃馒头配咸菜，一日一餐或两餐，家里必须住泥土房？二极管思维"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1977784784853340389",
+        "created_at": "2025-10-14T01:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T02:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977907216041857391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1663923642852610049",
+              "start": 0,
+              "username": "yyddjuebudantei"
+            },
+            {
+              "end": 25,
+              "id": "1470410046353858565",
+              "start": 17,
+              "username": "miumcii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977907216041857391",
+        "in_reply_to_user_id": "1663923642852610049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977884135180919084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyddjuebudantei @miumcii 你的意思是别人必须每顿只能吃馒头配咸菜，一日一餐或两餐，家里必须住泥土房？二极管思维"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663923642852610049",
+        "conversation_id": "1977784784853340389",
+        "created_at": "2025-10-13T23:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T00:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977884135180919084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1470410046353858565",
+              "start": 0,
+              "username": "miumcii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977884135180919084",
+        "in_reply_to_user_id": "1470410046353858565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977784784853340389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miumcii 你的穷养有达到联合国贫困标准吗每天生活花费等于低于标准 达到中国的扶贫标准了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973019240652582912/UCF0potu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 540,
+          "like_count": 1170,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 189
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T15:02:25.000Z",
+        "description": "便是有钱也不给 看你能怎样",
+        "id": "1663923642852610049",
+        "name": "彭博",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663923897203408896/bunZoRSg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 1,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1334
+        },
+        "username": "yyddjuebudantei",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T15:07:45.000Z",
+        "description": "好拥挤啊哈哈…。",
+        "id": "1470410046353858565",
+        "name": "闵目🍉夕曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954133022334410752/JblCpcUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35925,
+          "following_count": 296,
+          "like_count": 21798,
+          "listed_count": 107,
+          "media_count": 281,
+          "tweet_count": 11614
+        },
+        "username": "miumcii",
+        "verified": false
+      }
+    ]
+  }
+}

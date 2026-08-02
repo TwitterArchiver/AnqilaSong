@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1931613005801783464",
+    "created_at": "2025-06-08T07:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T08:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931613766224920738"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931613766224920738",
+    "in_reply_to_user_id": "1851134609347719168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931613005801783464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可恶啊啊啊啊啊啊，我恨世界所有的奸商，全部杀掉aaaaaaaa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1931613005801783464",
+        "created_at": "2025-06-08T07:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T08:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931613766224920738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931613766224920738",
+        "in_reply_to_user_id": "1851134609347719168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931613005801783464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可恶啊啊啊啊啊啊，我恨世界所有的奸商，全部杀掉aaaaaaaa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1931613005801783464",
+        "created_at": "2025-06-08T07:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T08:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931613005801783464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931613005801783464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气的浑身发抖，坐长途去找对象时去买了三个充电宝花了570，结果还虚和充不上电呜呜呜呜，可恶的奸商坑了我570，570aaa！呜呜呜我买药的钱都没了呜呜呜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟ \n08.166/48kg          会和所有xyn，xnn回关的\n有对象awa，暂时没有下海打算  \nZN🚪48",
+        "id": "1851134609347719168",
+        "location": "CQ",
+        "name": "AiLiAnSong🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928514425365159936/RXJeES90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 107,
+          "like_count": 299,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 59
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

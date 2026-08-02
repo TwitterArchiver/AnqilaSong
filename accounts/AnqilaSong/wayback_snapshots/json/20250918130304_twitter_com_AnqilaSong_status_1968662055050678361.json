@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1968325754816762303",
+    "created_at": "2025-09-18T13:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T14:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968662055050678361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1958048434021437440",
+          "start": 0,
+          "username": "baizhimengyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968662055050678361",
+    "in_reply_to_user_id": "1958048434021437440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968325754816762303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhimengyao 有后续踢一下🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1968325754816762303",
+        "created_at": "2025-09-18T13:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T14:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968662055050678361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958048434021437440",
+              "start": 0,
+              "username": "baizhimengyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968662055050678361",
+        "in_reply_to_user_id": "1958048434021437440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968325754816762303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhimengyao 有后续踢一下🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958048434021437440",
+        "conversation_id": "1968325754816762303",
+        "created_at": "2025-09-17T14:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T15:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968325754816762303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968325754816762303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 13007,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想起来，今天军训的时候晕倒之前看到一个超级像女生的人，看上去脸都像女生，但是在男生方阵里面……那个脸绝对是同类！好长的头发而且！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951795167171694592/Opie5SkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 510,
+          "like_count": 1043,
+          "listed_count": 4,
+          "media_count": 14,
+          "tweet_count": 121
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T06:08:29.000Z",
+        "description": "无证糖🍥/出厂日期2007.02.17/北京/爸妈严正反对/enfp/文学发烧友/我最最亲爱的小太阳@hNksSFUzyw54834！照亮每一天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "hNksSFUzyw54834"
+              }
+            ]
+          }
+        },
+        "id": "1958048434021437440",
+        "location": "距你0.1km",
+        "name": "白芷梦瑶🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968317110565904385/mISNlWAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 20,
+          "like_count": 94,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 401
+        },
+        "username": "baizhimengyao",
+        "verified": false
+      }
+    ]
+  }
+}

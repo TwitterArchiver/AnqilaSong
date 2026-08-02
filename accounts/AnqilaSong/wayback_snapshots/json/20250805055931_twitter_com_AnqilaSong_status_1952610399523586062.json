@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1952610380192313344"
+      ]
+    },
+    "author_id": "1851134609347719168",
+    "conversation_id": "1952610399523586062",
+    "created_at": "2025-08-05T05:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T06:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952610399523586062"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "xyn"
+        },
+        {
+          "end": 9,
+          "start": 5,
+          "tag": "小药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i6DFk2ix3A",
+          "end": 38,
+          "expanded_url": "https://x.com/AnqilaSong/status/1952610399523586062/video/1",
+          "media_key": "7_1952610380192313344",
+          "start": 15,
+          "url": "https://t.co/i6DFk2ix3A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952610399523586062",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#xyn #小药娘 臭美喵喵 https://t.co/i6DFk2ix3A"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10031,
+        "height": 720,
+        "media_key": "7_1952610380192313344",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1952610380192313344/pu/img/LLqZ4kp0493RpHZi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952610380192313344/pu/vid/avc1/360x270/aSyE9Qgf4HOZt3KY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952610380192313344/pu/vid/avc1/480x360/sMDN4lRPLuGTt861.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1952610380192313344/pu/vid/avc1/960x720/b_R2qig3qu3AC_sf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1952610380192313344/pu/pl/WRPG0EYg-GtJK4hT.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1952610380192313344"
+          ]
+        },
+        "author_id": "1851134609347719168",
+        "conversation_id": "1952610399523586062",
+        "created_at": "2025-08-05T05:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T06:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952610399523586062"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "xyn"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "小药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i6DFk2ix3A",
+              "end": 38,
+              "expanded_url": "https://x.com/AnqilaSong/status/1952610399523586062/video/1",
+              "media_key": "7_1952610380192313344",
+              "start": 15,
+              "url": "https://t.co/i6DFk2ix3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952610399523586062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#xyn #小药娘 臭美喵喵 https://t.co/i6DFk2ix3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951795167171694592/Opie5SkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 472,
+          "like_count": 905,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 89
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

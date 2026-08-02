@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1976264624250159447",
+    "created_at": "2025-10-10T01:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T02:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976461789991997739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976461789991997739",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976264624250159447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976264614519398400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20aMjqaYAAuJZ-.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976264614540443648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20aMjvbgAAI4ig.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1976264624250159447",
+        "created_at": "2025-10-10T01:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T02:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976461789991997739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976461789991997739",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976264624250159447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976264614519398400",
+            "3_1976264614540443648"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1976264624250159447",
+        "created_at": "2025-10-09T12:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T13:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976264624250159447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mrWmZlvmSZ",
+              "end": 95,
+              "expanded_url": "https://x.com/amecandy_x/status/1976264624250159447/photo/1",
+              "media_key": "3_1976264614519398400",
+              "start": 72,
+              "url": "https://t.co/mrWmZlvmSZ"
+            },
+            {
+              "display_url": "pic.x.com/mrWmZlvmSZ",
+              "end": 95,
+              "expanded_url": "https://x.com/amecandy_x/status/1976264624250159447/photo/1",
+              "media_key": "3_1976264614540443648",
+              "start": 72,
+              "url": "https://t.co/mrWmZlvmSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976264624250159447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 11470,
+          "like_count": 235,
+          "quote_count": 4,
+          "reply_count": 83,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "小雨见到了很pass的mtf姐姐\n感觉不太好\n腿发抖\n\n想着「我大概永远不会变成那样吧」\n「然而我只是个不男不女的怪物」\n\n于是，刀刃划过皮肤 https://t.co/mrWmZlvmSZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973019240652582912/UCF0potu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 535,
+          "like_count": 1150,
+          "listed_count": 4,
+          "media_count": 18,
+          "tweet_count": 177
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "叫我小雨//休学在家，互联网是我的一切🌏//旅游区博主//家长党MtF🏳️‍⚧️//HRT 2022.07//双相//我会写东西搞oc！文章网站https://t.co/Ul32kqG4uh 欢迎找我讨论！！//去过🇯🇵🇷🇺🇰🇷🧳//术曲🎧//私信扩列聊天欢迎",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 95,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 72,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "武汉",
+        "name": "超絕最可愛 Rain 🏳️‍⚧️🧬（求fo版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772147307787739136/uXU9kK7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3764,
+          "following_count": 1362,
+          "like_count": 20219,
+          "listed_count": 9,
+          "media_count": 672,
+          "tweet_count": 6485
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

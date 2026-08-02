@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860939087731122176",
+        "3_1860939087714369536",
+        "3_1860939169817825280"
+      ]
+    },
+    "author_id": "1851134609347719168",
+    "conversation_id": "1860939175463473346",
+    "created_at": "2024-11-25T06:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T07:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860939175463473346"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "男娘"
+        },
+        {
+          "end": 14,
+          "start": 4,
+          "tag": "伪娘‍‍‍‍‍‍‍"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xcci6MIWNs",
+          "end": 58,
+          "expanded_url": "https://x.com/AnqilaSong/status/1860939175463473346/photo/1",
+          "media_key": "3_1860939087731122176",
+          "start": 35,
+          "url": "https://t.co/xcci6MIWNs"
+        },
+        {
+          "display_url": "pic.x.com/xcci6MIWNs",
+          "end": 58,
+          "expanded_url": "https://x.com/AnqilaSong/status/1860939175463473346/photo/1",
+          "media_key": "3_1860939087714369536",
+          "start": 35,
+          "url": "https://t.co/xcci6MIWNs"
+        },
+        {
+          "display_url": "pic.x.com/xcci6MIWNs",
+          "end": 58,
+          "expanded_url": "https://x.com/AnqilaSong/status/1860939175463473346/photo/1",
+          "media_key": "3_1860939169817825280",
+          "start": 35,
+          "url": "https://t.co/xcci6MIWNs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860939175463473346",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#男娘 #伪娘‍‍‍‍‍‍‍ 新买的镜子到了，可以更好的拍照了qwq https://t.co/xcci6MIWNs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_1860939087731122176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdNiPZjaYAAk8ZB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_1860939087714369536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdNiPZfawAAhSfM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_1860939169817825280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdNiULWaEAA7GmQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860939087731122176",
+            "3_1860939087714369536",
+            "3_1860939169817825280"
+          ]
+        },
+        "author_id": "1851134609347719168",
+        "conversation_id": "1860939175463473346",
+        "created_at": "2024-11-25T06:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T07:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860939175463473346"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 14,
+              "start": 4,
+              "tag": "伪娘‍‍‍‍‍‍‍"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xcci6MIWNs",
+              "end": 58,
+              "expanded_url": "https://x.com/AnqilaSong/status/1860939175463473346/photo/1",
+              "media_key": "3_1860939087731122176",
+              "start": 35,
+              "url": "https://t.co/xcci6MIWNs"
+            },
+            {
+              "display_url": "pic.x.com/xcci6MIWNs",
+              "end": 58,
+              "expanded_url": "https://x.com/AnqilaSong/status/1860939175463473346/photo/1",
+              "media_key": "3_1860939087714369536",
+              "start": 35,
+              "url": "https://t.co/xcci6MIWNs"
+            },
+            {
+              "display_url": "pic.x.com/xcci6MIWNs",
+              "end": 58,
+              "expanded_url": "https://x.com/AnqilaSong/status/1860939175463473346/photo/1",
+              "media_key": "3_1860939169817825280",
+              "start": 35,
+              "url": "https://t.co/xcci6MIWNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860939175463473346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘‍‍‍‍‍‍‍ 新买的镜子到了，可以更好的拍照了qwq https://t.co/xcci6MIWNs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "小南梁，上一世-AiLiAnSong\nqwq，有一点神经，轻度厌世反社会QAQ\n请不要和我讨论政治QAQ\n2008，9，19",
+        "id": "1851134609347719168",
+        "location": "CQ",
+        "name": "songAnqila",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851134758270717952/1TP5KDNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 32,
+          "like_count": 76,
+          "listed_count": 0,
+          "tweet_count": 6
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

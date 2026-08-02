@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891887828222578688",
+        "3_1891886505788047361",
+        "3_1891886347553751040"
+      ]
+    },
+    "author_id": "1851134609347719168",
+    "conversation_id": "1891887838397890938",
+    "created_at": "2025-02-18T16:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T17:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891887838397890938"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "男娘"
+        },
+        {
+          "end": 7,
+          "start": 4,
+          "tag": "伪娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/51OTAeinwl",
+          "end": 49,
+          "expanded_url": "https://x.com/AnqilaSong/status/1891887838397890938/photo/1",
+          "media_key": "3_1891887828222578688",
+          "start": 26,
+          "url": "https://t.co/51OTAeinwl"
+        },
+        {
+          "display_url": "pic.x.com/51OTAeinwl",
+          "end": 49,
+          "expanded_url": "https://x.com/AnqilaSong/status/1891887838397890938/photo/1",
+          "media_key": "3_1891886505788047361",
+          "start": 26,
+          "url": "https://t.co/51OTAeinwl"
+        },
+        {
+          "display_url": "pic.x.com/51OTAeinwl",
+          "end": 49,
+          "expanded_url": "https://x.com/AnqilaSong/status/1891887838397890938/photo/1",
+          "media_key": "3_1891886347553751040",
+          "start": 26,
+          "url": "https://t.co/51OTAeinwl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891887838397890938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#男娘 #伪娘 自录视频🥵，芭芭拉大战水晶鸡吧🥵🥵 https://t.co/51OTAeinwl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_1891887828222578688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkFV9MQXkAAonwv.jpg",
+        "width": 1152
+      },
+      {
+        "height": 960,
+        "media_key": "3_1891886505788047361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkFUwNzaAAEtlI3.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1891886347553751040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkFUnAVaQAA7QBq.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891887828222578688",
+            "3_1891886505788047361",
+            "3_1891886347553751040"
+          ]
+        },
+        "author_id": "1851134609347719168",
+        "conversation_id": "1891887838397890938",
+        "created_at": "2025-02-18T16:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T17:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891887838397890938"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/51OTAeinwl",
+              "end": 49,
+              "expanded_url": "https://x.com/AnqilaSong/status/1891887838397890938/photo/1",
+              "media_key": "3_1891887828222578688",
+              "start": 26,
+              "url": "https://t.co/51OTAeinwl"
+            },
+            {
+              "display_url": "pic.x.com/51OTAeinwl",
+              "end": 49,
+              "expanded_url": "https://x.com/AnqilaSong/status/1891887838397890938/photo/1",
+              "media_key": "3_1891886505788047361",
+              "start": 26,
+              "url": "https://t.co/51OTAeinwl"
+            },
+            {
+              "display_url": "pic.x.com/51OTAeinwl",
+              "end": 49,
+              "expanded_url": "https://x.com/AnqilaSong/status/1891887838397890938/photo/1",
+              "media_key": "3_1891886347553751040",
+              "start": 26,
+              "url": "https://t.co/51OTAeinwl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891887838397890938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘 自录视频🥵，芭芭拉大战水晶鸡吧🥵🥵 https://t.co/51OTAeinwl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "小南梁，上一世-AiLiAnSong\nqwq，有一点神经，不要和我越跑😡我还是很洁身自好的😭只是有一点黄黄的😋\n请不要和我讨论政治QAQ\n166/48kg\n2008，9，19",
+        "id": "1851134609347719168",
+        "location": "CQ",
+        "name": "songAnqila",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851134758270717952/1TP5KDNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 50,
+          "like_count": 157,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 26
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

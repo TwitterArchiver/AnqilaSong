@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1937922995965624359",
+    "created_at": "2025-06-25T17:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T18:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937922995965624359"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1937922995965624359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和一般药娘不一样，我不会影响任何一个人，我会安安静静的去我想去的地方。。。不会影响任何人。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1937922995965624359",
+        "created_at": "2025-06-25T17:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T18:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937922995965624359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937922995965624359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和一般药娘不一样，我不会影响任何一个人，我会安安静静的去我想去的地方。。。不会影响任何人。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟   精神正在每况愈下（）你们可以叫我安安\n08.166/48kg          会和所有xyn，xnn回关的\n（）非常想下海圆角赚钱\nZN🚪48",
+        "id": "1851134609347719168",
+        "name": "AiLiAnSong🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1933038147165671840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935297678872559616/8lOeiY0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 345,
+          "like_count": 538,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 107
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

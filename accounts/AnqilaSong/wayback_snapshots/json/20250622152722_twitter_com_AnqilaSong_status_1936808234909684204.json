@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1936494793997406574",
+    "created_at": "2025-06-22T15:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T16:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936808234909684204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1770681338221432832",
+          "start": 0,
+          "username": "Fishlike_bird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936808234909684204",
+    "in_reply_to_user_id": "1770681338221432832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936494793997406574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fishlike_bird 揉揉awa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936494790553559040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt_PwIRW4AAjwx4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1936494793997406574",
+        "created_at": "2025-06-22T15:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T16:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936808234909684204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1770681338221432832",
+              "start": 0,
+              "username": "Fishlike_bird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936808234909684204",
+        "in_reply_to_user_id": "1770681338221432832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936494793997406574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fishlike_bird 揉揉awa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936494790553559040"
+          ]
+        },
+        "author_id": "1770681338221432832",
+        "conversation_id": "1936494793997406574",
+        "created_at": "2025-06-21T18:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T19:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936494793997406574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DZHQFP8HKT",
+              "end": 35,
+              "expanded_url": "https://x.com/Fishlike_bird/status/1936494793997406574/photo/1",
+              "media_key": "3_1936494790553559040",
+              "start": 12,
+              "url": "https://t.co/DZHQFP8HKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936494793997406574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被蚊子咬了一个大包☹️ https://t.co/DZHQFP8HKT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟   精神正在每况愈下（）你们可以叫我安安\n08.166/48kg          会和所有xyn，xnn回关的\n有对象awa，暂时没有下海打算  \nZN🚪48",
+        "id": "1851134609347719168",
+        "name": "AiLiAnSong🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1933038147165671840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935297678872559616/8lOeiY0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 314,
+          "like_count": 490,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 93
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T05:18:32.000Z",
+        "description": "03 | 无证含糖 | mtf | 2024.11.16开始hrt | intp | 地下党 | 跨女同 | 弱攻 | 网络话痨 | 爱发神经 | fishlike_bird | 像鱼的鸟 | 呆鸟 | 鱼喜欢鸟",
+        "id": "1770681338221432832",
+        "location": "扣扣空间",
+        "name": "星梦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922347051146170369/REQ27USi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 376,
+          "like_count": 582,
+          "listed_count": 5,
+          "media_count": 95,
+          "tweet_count": 363
+        },
+        "username": "Fishlike_bird",
+        "verified": false
+      }
+    ]
+  }
+}

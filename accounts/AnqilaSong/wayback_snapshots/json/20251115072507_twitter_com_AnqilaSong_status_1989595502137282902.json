@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989595494222565376"
+      ]
+    },
+    "author_id": "1851134609347719168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1989595502137282902",
+    "created_at": "2025-11-15T07:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T08:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989595502137282902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ITIKyL6HqY",
+          "end": 23,
+          "expanded_url": "https://x.com/AnqilaSong/status/1989595502137282902/photo/1",
+          "media_key": "3_1989595494222565376",
+          "start": 0,
+          "url": "https://t.co/ITIKyL6HqY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989595502137282902",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ITIKyL6HqY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_1989595494222565376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5x2j4fakAA_FTp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989595494222565376"
+          ]
+        },
+        "author_id": "1851134609347719168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989595502137282902",
+        "created_at": "2025-11-15T07:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T08:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989595502137282902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITIKyL6HqY",
+              "end": 23,
+              "expanded_url": "https://x.com/AnqilaSong/status/1989595502137282902/photo/1",
+              "media_key": "3_1989595494222565376",
+              "start": 0,
+              "url": "https://t.co/ITIKyL6HqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989595502137282902",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ITIKyL6HqY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045,
+          "following_count": 553,
+          "like_count": 1292,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 227
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

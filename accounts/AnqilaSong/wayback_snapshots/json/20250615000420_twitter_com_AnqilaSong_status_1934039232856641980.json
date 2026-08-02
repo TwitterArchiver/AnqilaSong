@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1931220333274579231",
+    "created_at": "2025-06-15T00:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T01:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934039232856641980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1509981923950559241",
+          "start": 0,
+          "username": "ggg_ggghb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934039232856641980",
+    "in_reply_to_user_id": "1509981923950559241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933973232228643005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggg_ggghb 你怎么知道我玩战争雷霆，以及，我不是男娘，标签只是引流的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1931220333274579231",
+        "created_at": "2025-06-15T00:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T01:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934039232856641980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1509981923950559241",
+              "start": 0,
+              "username": "ggg_ggghb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934039232856641980",
+        "in_reply_to_user_id": "1509981923950559241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933973232228643005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggg_ggghb 你怎么知道我玩战争雷霆，以及，我不是男娘，标签只是引流的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509981923950559241",
+        "conversation_id": "1931220333274579231",
+        "created_at": "2025-06-14T19:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T20:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933973232228643005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851134609347719168",
+              "start": 0,
+              "username": "AnqilaSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933973232228643005",
+        "in_reply_to_user_id": "1851134609347719168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931220333274579231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnqilaSong 果然玩战雷的都是小男娘吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟   精神良好，暂时不会发疯（）你们可以叫我安安\n08.166/48kg          会和所有xyn，xnn回关的\n有对象awa，暂时没有下海打算  \nZN🚪48",
+        "id": "1851134609347719168",
+        "name": "AiLiAnSong🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1933038147165671840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928514425365159936/RXJeES90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 290,
+          "like_count": 409,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 86
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T19:53:36.000Z",
+        "description": "",
+        "id": "1509981923950559241",
+        "name": "Ggghb Ggg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509982333562105856/hpOHOPvX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "ggg_ggghb",
+        "verified": false
+      }
+    ]
+  }
+}

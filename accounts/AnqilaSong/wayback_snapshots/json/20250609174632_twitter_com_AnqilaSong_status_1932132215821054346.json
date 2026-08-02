@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932131995473043456"
+      ]
+    },
+    "author_id": "1851134609347719168",
+    "conversation_id": "1932132215821054346",
+    "created_at": "2025-06-09T17:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T18:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932132215821054346"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "伪娘"
+        },
+        {
+          "end": 7,
+          "start": 4,
+          "tag": "药娘"
+        },
+        {
+          "end": 12,
+          "start": 8,
+          "tag": "mtf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dm1kEylOrH",
+          "end": 78,
+          "expanded_url": "https://x.com/AnqilaSong/status/1932132215821054346/photo/1",
+          "media_key": "3_1932131995473043456",
+          "start": 55,
+          "url": "https://t.co/dm1kEylOrH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932132215821054346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#伪娘 #药娘 #mtf 突然觉得男女最大不公平就是每次左爱都要灌肠好麻烦a，要是我像女生一样有b就好了（） https://t.co/dm1kEylOrH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1932131995473043456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtBP0CFWYAA1mx4.jpg",
+        "width": 3076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932131995473043456"
+          ]
+        },
+        "author_id": "1851134609347719168",
+        "conversation_id": "1932132215821054346",
+        "created_at": "2025-06-09T17:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T18:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932132215821054346"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "伪娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "药娘"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dm1kEylOrH",
+              "end": 78,
+              "expanded_url": "https://x.com/AnqilaSong/status/1932132215821054346/photo/1",
+              "media_key": "3_1932131995473043456",
+              "start": 55,
+              "url": "https://t.co/dm1kEylOrH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932132215821054346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#伪娘 #药娘 #mtf 突然觉得男女最大不公平就是每次左爱都要灌肠好麻烦a，要是我像女生一样有b就好了（） https://t.co/dm1kEylOrH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟   精神良好，暂时不会发疯（）你们可以叫我安安\n08.166/48kg          会和所有xyn，xnn回关的\n有对象awa，暂时没有下海打算  \nZN🚪48",
+        "id": "1851134609347719168",
+        "name": "AiLiAnSong🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928514425365159936/RXJeES90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 183,
+          "like_count": 333,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 67
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

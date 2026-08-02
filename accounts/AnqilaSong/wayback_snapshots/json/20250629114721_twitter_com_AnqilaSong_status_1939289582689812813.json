@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1939289582689812813",
+    "created_at": "2025-06-29T11:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T12:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939289582689812813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1606690184564985856",
+          "start": 3,
+          "username": "hgsbtin_nisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939289582689812813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939259633698525284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgsbtin_nisaki: 我是缺爱小药娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1939289582689812813",
+        "created_at": "2025-06-29T11:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T12:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939289582689812813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1606690184564985856",
+              "start": 3,
+              "username": "hgsbtin_nisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939289582689812813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939259633698525284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgsbtin_nisaki: 我是缺爱小药娘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606690184564985856",
+        "conversation_id": "1939259633698525284",
+        "created_at": "2025-06-29T09:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T10:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939259633698525284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jingzi004/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/jingzi004/status/1939255171999298054",
+              "start": 8,
+              "url": "https://t.co/oHzIy383RO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939259633698525284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939255171999298054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是缺爱小药娘 https://t.co/oHzIy383RO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟   精神正在每况愈下（）你们可以叫我安安\n08.166/48kg          会和所有xyn，xnn回关的\n（）非常想下海圆角赚钱\nZN🚪48",
+        "id": "1851134609347719168",
+        "name": "AiLiAnSong🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1933038147165671840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935297678872559616/8lOeiY0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 393,
+          "like_count": 625,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 115
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T16:36:41.000Z",
+        "description": "07年无证含糖mtf🏳️‍⚧️｜INFP-T｜168 48｜xyn｜HRT 2025/2/17｜微天赋党｜ N1考取中｜🏳️‍⚧️同类互fo｜ @WangPu90983 ｜主人@XIAXIAKT｜妹妹 @Littlecat111007 ｜@chuF6yuanmen 的猫猫｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "WangPu90983"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "XIAXIAKT"
+              },
+              {
+                "end": 117,
+                "start": 101,
+                "username": "Littlecat111007"
+              },
+              {
+                "end": 132,
+                "start": 119,
+                "username": "chuF6yuanmen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nyasaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nyasaki",
+                "start": 0,
+                "url": "https://t.co/N9KjiqN0VV"
+              }
+            ]
+          }
+        },
+        "id": "1606690184564985856",
+        "name": "東別院ニサキ🍥",
+        "pinned_tweet_id": "1933094187135877399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374049002299392/JqxE9WVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 401,
+          "like_count": 6119,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/N9KjiqN0VV",
+        "username": "hgsbtin_nisaki",
+        "verified": false
+      }
+    ]
+  }
+}

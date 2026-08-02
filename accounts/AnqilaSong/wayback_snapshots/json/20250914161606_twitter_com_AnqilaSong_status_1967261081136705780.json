@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1946699917747220516",
+    "created_at": "2025-09-14T16:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T17:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967261081136705780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1956693909310234624",
+          "start": 0,
+          "username": "KaythshaSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967261081136705780",
+    "in_reply_to_user_id": "1956693909310234624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967253798948352215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaythshaSama 贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1946699917747220516",
+        "created_at": "2025-09-14T16:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T17:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967261081136705780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1956693909310234624",
+              "start": 0,
+              "username": "KaythshaSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967261081136705780",
+        "in_reply_to_user_id": "1956693909310234624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967253798948352215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaythshaSama 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956693909310234624",
+        "conversation_id": "1946699917747220516",
+        "created_at": "2025-09-14T15:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T16:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967253798948352215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851134609347719168",
+              "start": 0,
+              "username": "AnqilaSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967253798948352215",
+        "in_reply_to_user_id": "1851134609347719168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946699917747220516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnqilaSong 呜呜呜我也要贴贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951795167171694592/Opie5SkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 505,
+          "like_count": 1007,
+          "listed_count": 4,
+          "media_count": 13,
+          "tweet_count": 115
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T12:28:03.000Z",
+        "description": "只想做满天繁星的梦……",
+        "id": "1956693909310234624",
+        "name": "喀秋莎sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967253186940440576/X6u08DeM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "KaythshaSama",
+        "verified": false
+      }
+    ]
+  }
+}

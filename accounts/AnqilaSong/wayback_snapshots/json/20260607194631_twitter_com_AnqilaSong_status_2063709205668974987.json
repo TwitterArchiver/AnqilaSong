@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2063656380230475949",
+    "created_at": "2026-06-07T19:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T20:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063709205668974987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823835476366692352",
+          "start": 0,
+          "username": "naonao_927050"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063709205668974987",
+    "in_reply_to_user_id": "1823835476366692352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063656380230475949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naonao_927050 我逐渐意识到自己这辈子可能都不会变成我喜欢的样子了 哎 想想就挺难过的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2063656380230475949].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2063656380230475949",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2063656380230475949"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2063656380230475949",
+        "created_at": "2026-06-07T19:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063709205668974987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823835476366692352",
+              "start": 0,
+              "username": "naonao_927050"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063709205668974987",
+        "in_reply_to_user_id": "1823835476366692352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063656380230475949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naonao_927050 我逐渐意识到自己这辈子可能都不会变成我喜欢的样子了 哎 想想就挺难过的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1983163136569127305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5794,
+          "following_count": 423,
+          "like_count": 1782,
+          "listed_count": 5,
+          "media_count": 40,
+          "tweet_count": 359
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T21:34:24.000Z",
+        "description": "Computer Architect  |\n\nVandelay  Technologies",
+        "id": "1823835476366692352",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "丢了城的城主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047037847324999681/xNZaJ9f3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 879,
+          "like_count": 76229,
+          "listed_count": 3,
+          "media_count": 1440,
+          "tweet_count": 18299
+        },
+        "username": "naonao_927050",
+        "verified": false
+      }
+    ]
+  }
+}

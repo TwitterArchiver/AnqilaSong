@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986617147750293504"
+      ]
+    },
+    "author_id": "1851134609347719168",
+    "conversation_id": "1986617392617893934",
+    "created_at": "2025-11-07T02:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T03:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986617392617893934"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "xyn"
+        },
+        {
+          "end": 8,
+          "start": 5,
+          "tag": "母狗"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nNTERKIJCx",
+          "end": 32,
+          "expanded_url": "https://x.com/AnqilaSong/status/1986617392617893934/photo/1",
+          "media_key": "3_1986617147750293504",
+          "start": 9,
+          "url": "https://t.co/nNTERKIJCx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986617392617893934",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#xyn #母狗 https://t.co/nNTERKIJCx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1986617147750293504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5HhxTRbIAA1rNO.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986617147750293504"
+          ]
+        },
+        "author_id": "1851134609347719168",
+        "conversation_id": "1986617392617893934",
+        "created_at": "2025-11-07T02:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T03:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986617392617893934"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "xyn"
+            },
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNTERKIJCx",
+              "end": 32,
+              "expanded_url": "https://x.com/AnqilaSong/status/1986617392617893934/photo/1",
+              "media_key": "3_1986617147750293504",
+              "start": 9,
+              "url": "https://t.co/nNTERKIJCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986617392617893934",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#xyn #母狗 https://t.co/nNTERKIJCx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2022,
+          "following_count": 547,
+          "like_count": 1261,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 222
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

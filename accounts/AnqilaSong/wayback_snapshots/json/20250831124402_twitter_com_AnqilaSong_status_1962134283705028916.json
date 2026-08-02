@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1962134283705028916",
+    "created_at": "2025-08-31T12:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T13:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962134283705028916"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "od"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962134283705028916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次看见国内抖音有人发od的照片就一股无名火，请问这样说是想展示自己的优越感吗，到时候搞得所有人都没药吃了才好吗😅典型的害人害己，小脑萎缩，害人害己的不配得到同情😅\n#od"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1962134283705028916",
+        "created_at": "2025-08-31T12:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T13:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962134283705028916"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962134283705028916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次看见国内抖音有人发od的照片就一股无名火，请问这样说是想展示自己的优越感吗，到时候搞得所有人都没药吃了才好吗😅典型的害人害己，小脑萎缩，害人害己的不配得到同情😅\n#od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951795167171694592/Opie5SkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 499,
+          "like_count": 987,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 107
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

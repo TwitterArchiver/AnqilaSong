@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1991010967678038017"
+      ]
+    },
+    "author_id": "1851134609347719168",
+    "conversation_id": "1991011016780759399",
+    "created_at": "2025-11-19T05:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T06:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991011016780759399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3obVj6nvVG",
+          "end": 23,
+          "expanded_url": "https://x.com/AnqilaSong/status/1991011016780759399/video/1",
+          "media_key": "13_1991010967678038017",
+          "start": 0,
+          "url": "https://t.co/3obVj6nvVG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991011016780759399",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/3obVj6nvVG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8405,
+        "height": 1080,
+        "media_key": "13_1991010967678038017",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991010967678038017/img/0aorl_9aebJqWvWI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991010967678038017/vid/avc1/320x320/5qfa3oGJAUiojWgs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991010967678038017/vid/avc1/540x540/WosD969W_eTGUJ8v.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991010967678038017/vid/avc1/720x720/94DYFVq-IkC9Tj-I.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991010967678038017/pl/f4_GsnVc763zx2EE.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991010967678038017"
+          ]
+        },
+        "author_id": "1851134609347719168",
+        "conversation_id": "1991011016780759399",
+        "created_at": "2025-11-19T05:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T06:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991011016780759399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3obVj6nvVG",
+              "end": 23,
+              "expanded_url": "https://x.com/AnqilaSong/status/1991011016780759399/video/1",
+              "media_key": "13_1991010967678038017",
+              "start": 0,
+              "url": "https://t.co/3obVj6nvVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991011016780759399",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3obVj6nvVG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 552,
+          "like_count": 1301,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 228
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

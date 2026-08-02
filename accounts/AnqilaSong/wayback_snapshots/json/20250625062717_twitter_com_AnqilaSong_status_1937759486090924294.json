@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1937508503238660207",
+    "created_at": "2025-06-25T06:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T07:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937759486090924294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1693244291286712320",
+          "start": 0,
+          "username": "LicnEP_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937759486090924294",
+    "in_reply_to_user_id": "1693244291286712320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937752527434658104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LicnEP_ 对的🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1937508503238660207",
+        "created_at": "2025-06-25T06:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T07:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937759486090924294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693244291286712320",
+              "start": 0,
+              "username": "LicnEP_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937759486090924294",
+        "in_reply_to_user_id": "1693244291286712320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937752527434658104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LicnEP_ 对的🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693244291286712320",
+        "conversation_id": "1937508503238660207",
+        "created_at": "2025-06-25T05:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T06:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937752527434658104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851134609347719168",
+              "start": 0,
+              "username": "AnqilaSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937752527434658104",
+        "in_reply_to_user_id": "1851134609347719168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937508503238660207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnqilaSong 齐...齐齐哈尔吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟   精神正在每况愈下（）你们可以叫我安安\n08.166/48kg          会和所有xyn，xnn回关的\n有对象awa，暂时没有下海打算  \nZN🚪48",
+        "id": "1851134609347719168",
+        "name": "AiLiAnSong🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1933038147165671840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935297678872559616/8lOeiY0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 323,
+          "like_count": 510,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 97
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T12:52:12.000Z",
+        "description": "是舞萌痴\n发点女装183/76(没有糖)\n头像：https://t.co/9F5Yo6y1Rw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "picrew.me/en/image_maker…",
+                "end": 47,
+                "expanded_url": "https://picrew.me/en/image_maker/1904634",
+                "start": 24,
+                "url": "https://t.co/9F5Yo6y1Rw"
+              }
+            ]
+          }
+        },
+        "id": "1693244291286712320",
+        "location": "Light world Hometown",
+        "name": "LicnEP",
+        "pinned_tweet_id": "1829566518545563662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912546006505517060/7kZFk5q6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 1063,
+          "like_count": 12458,
+          "listed_count": 10,
+          "media_count": 66,
+          "tweet_count": 742
+        },
+        "username": "LicnEP_",
+        "verified": false
+      }
+    ]
+  }
+}

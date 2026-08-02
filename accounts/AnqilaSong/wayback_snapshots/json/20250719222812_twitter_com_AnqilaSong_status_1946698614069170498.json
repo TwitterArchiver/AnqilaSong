@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946698611288367106"
+      ]
+    },
+    "author_id": "1851134609347719168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1946698614069170498",
+    "created_at": "2025-07-19T22:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T23:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946698614069170498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7pLKci1K2D",
+          "end": 46,
+          "expanded_url": "https://x.com/AnqilaSong/status/1946698614069170498/photo/1",
+          "media_key": "3_1946698611288367106",
+          "start": 23,
+          "url": "https://t.co/7pLKci1K2D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946698614069170498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "狗屎唐畜一天到晚艾特全体成员，说一句还急了😡 https://t.co/7pLKci1K2D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1946698611288367106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwQQEqqW4AI8nJk.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946698611288367106"
+          ]
+        },
+        "author_id": "1851134609347719168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946698614069170498",
+        "created_at": "2025-07-19T22:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T23:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946698614069170498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7pLKci1K2D",
+              "end": 46,
+              "expanded_url": "https://x.com/AnqilaSong/status/1946698614069170498/photo/1",
+              "media_key": "3_1946698611288367106",
+              "start": 23,
+              "url": "https://t.co/7pLKci1K2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946698614069170498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗屎唐畜一天到晚艾特全体成员，说一句还急了😡 https://t.co/7pLKci1K2D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935297678872559616/8lOeiY0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 438,
+          "like_count": 908,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 79
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1865041062219169900",
+    "created_at": "2024-12-06T14:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T15:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1865041062219169900"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "男娘"
+        },
+        {
+          "end": 7,
+          "start": 4,
+          "tag": "伪娘"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865041062219169900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#男娘 #伪娘 想问问大家，鼠鼠本来是一个平平无奇的xnn，但是从一开始就有cy的想法，随着时间推移，这种想法愈演愈烈，但是鼠鼠现在只有16岁没经济来源，不知道该怎么办QAQ，想问问你们都是哪里来的经济"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1865041062219169900",
+        "created_at": "2024-12-06T14:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T15:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865041062219169900"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "伪娘"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865041062219169900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘 想问问大家，鼠鼠本来是一个平平无奇的xnn，但是从一开始就有cy的想法，随着时间推移，这种想法愈演愈烈，但是鼠鼠现在只有16岁没经济来源，不知道该怎么办QAQ，想问问你们都是哪里来的经济"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "小南梁，上一世-AiLiAnSong\nqwq，有一点神经，轻度厌世反社会QAQ\n请不要和我讨论政治QAQ\n2008，9，19",
+        "id": "1851134609347719168",
+        "location": "CQ",
+        "name": "songAnqila",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851134758270717952/1TP5KDNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 33,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931220192849170432",
+        "3_1931220192853393408",
+        "3_1931220192866029568",
+        "3_1931220192803065856"
+      ]
+    },
+    "author_id": "1851134609347719168",
+    "conversation_id": "1931220333274579231",
+    "created_at": "2025-06-07T05:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T06:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931220333274579231"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "伪娘"
+        },
+        {
+          "end": 7,
+          "start": 4,
+          "tag": "男娘"
+        },
+        {
+          "end": 11,
+          "start": 8,
+          "tag": "药娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cu42gbGztL",
+          "end": 59,
+          "expanded_url": "https://x.com/AnqilaSong/status/1931220333274579231/photo/1",
+          "media_key": "3_1931220192849170432",
+          "start": 36,
+          "url": "https://t.co/cu42gbGztL"
+        },
+        {
+          "display_url": "pic.x.com/cu42gbGztL",
+          "end": 59,
+          "expanded_url": "https://x.com/AnqilaSong/status/1931220333274579231/photo/1",
+          "media_key": "3_1931220192853393408",
+          "start": 36,
+          "url": "https://t.co/cu42gbGztL"
+        },
+        {
+          "display_url": "pic.x.com/cu42gbGztL",
+          "end": 59,
+          "expanded_url": "https://x.com/AnqilaSong/status/1931220333274579231/photo/1",
+          "media_key": "3_1931220192866029568",
+          "start": 36,
+          "url": "https://t.co/cu42gbGztL"
+        },
+        {
+          "display_url": "pic.x.com/cu42gbGztL",
+          "end": 59,
+          "expanded_url": "https://x.com/AnqilaSong/status/1931220333274579231/photo/1",
+          "media_key": "3_1931220192803065856",
+          "start": 36,
+          "url": "https://t.co/cu42gbGztL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931220333274579231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#伪娘 #男娘 #药娘 发两张色图看看有没有流量，有的话，发更大尺度的 https://t.co/cu42gbGztL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1931220192849170432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs0SiInWEAAKZJK.jpg",
+        "width": 3076
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1931220192853393408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs0SiIoWgAAIkeF.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1931220192866029568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs0SiIrXUAAJXJI.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1931220192803065856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs0SiIcWkAAw3Xt.jpg",
+        "width": 3076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931220192849170432",
+            "3_1931220192853393408",
+            "3_1931220192866029568",
+            "3_1931220192803065856"
+          ]
+        },
+        "author_id": "1851134609347719168",
+        "conversation_id": "1931220333274579231",
+        "created_at": "2025-06-07T05:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T06:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931220333274579231"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "伪娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "男娘"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cu42gbGztL",
+              "end": 59,
+              "expanded_url": "https://x.com/AnqilaSong/status/1931220333274579231/photo/1",
+              "media_key": "3_1931220192849170432",
+              "start": 36,
+              "url": "https://t.co/cu42gbGztL"
+            },
+            {
+              "display_url": "pic.x.com/cu42gbGztL",
+              "end": 59,
+              "expanded_url": "https://x.com/AnqilaSong/status/1931220333274579231/photo/1",
+              "media_key": "3_1931220192853393408",
+              "start": 36,
+              "url": "https://t.co/cu42gbGztL"
+            },
+            {
+              "display_url": "pic.x.com/cu42gbGztL",
+              "end": 59,
+              "expanded_url": "https://x.com/AnqilaSong/status/1931220333274579231/photo/1",
+              "media_key": "3_1931220192866029568",
+              "start": 36,
+              "url": "https://t.co/cu42gbGztL"
+            },
+            {
+              "display_url": "pic.x.com/cu42gbGztL",
+              "end": 59,
+              "expanded_url": "https://x.com/AnqilaSong/status/1931220333274579231/photo/1",
+              "media_key": "3_1931220192803065856",
+              "start": 36,
+              "url": "https://t.co/cu42gbGztL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931220333274579231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#伪娘 #男娘 #药娘 发两张色图看看有没有流量，有的话，发更大尺度的 https://t.co/cu42gbGztL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟ \n08.166/48kg          会和所有xyn，xnn回关的\n有对象awa，暂时没有下海打算",
+        "id": "1851134609347719168",
+        "location": "CQ",
+        "name": "songAnqila🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928514425365159936/RXJeES90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 74,
+          "like_count": 237,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 48
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

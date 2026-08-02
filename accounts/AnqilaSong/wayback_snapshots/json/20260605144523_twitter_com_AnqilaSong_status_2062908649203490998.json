@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2062796563139657755",
+    "created_at": "2026-06-05T14:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062908649203490998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1962302660541079552",
+          "start": 0,
+          "username": "yuerQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062908649203490998",
+    "in_reply_to_user_id": "1962302660541079552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062796563139657755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuerQwQ 菲比揪比"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2062538280453935104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-bo2YaEAAkQBc.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2062796563139657755",
+        "created_at": "2026-06-05T14:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062908649203490998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062908649203490998",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062796563139657755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 菲比揪比"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062538280453935104"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062796563139657755",
+        "created_at": "2026-06-05T07:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062796563139657755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/chxkoXgQQf",
+              "end": 30,
+              "expanded_url": "https://x.com/yuerQwQ/status/2062796563139657755/photo/1",
+              "media_key": "3_2062538280453935104",
+              "start": 7,
+              "url": "https://t.co/chxkoXgQQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062796563139657755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4173,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "菲比可爱捏~ https://t.co/chxkoXgQQf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1983163136569127305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5798,
+          "following_count": 427,
+          "like_count": 1829,
+          "listed_count": 5,
+          "media_count": 39,
+          "tweet_count": 352
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062829521649496428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 1065,
+          "like_count": 11850,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 2424
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930835022761566208",
+        "3_1930835022761562112",
+        "3_1930835022790995968"
+      ]
+    },
+    "author_id": "1851134609347719168",
+    "conversation_id": "1930835444003918249",
+    "created_at": "2025-06-06T03:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T04:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930835444003918249"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "伪娘の日常"
+        },
+        {
+          "end": 11,
+          "start": 7,
+          "tag": "mtf"
+        },
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "男娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JbjEaf6lA9",
+          "end": 55,
+          "expanded_url": "https://x.com/AnqilaSong/status/1930835444003918249/photo/1",
+          "media_key": "3_1930835022761566208",
+          "start": 32,
+          "url": "https://t.co/JbjEaf6lA9"
+        },
+        {
+          "display_url": "pic.x.com/JbjEaf6lA9",
+          "end": 55,
+          "expanded_url": "https://x.com/AnqilaSong/status/1930835444003918249/photo/1",
+          "media_key": "3_1930835022761562112",
+          "start": 32,
+          "url": "https://t.co/JbjEaf6lA9"
+        },
+        {
+          "display_url": "pic.x.com/JbjEaf6lA9",
+          "end": 55,
+          "expanded_url": "https://x.com/AnqilaSong/status/1930835444003918249/photo/1",
+          "media_key": "3_1930835022790995968",
+          "start": 32,
+          "url": "https://t.co/JbjEaf6lA9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930835444003918249",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#伪娘の日常 #mtf #男娘 到新家了，算是xyn避难所（） https://t.co/JbjEaf6lA9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1930835022761566208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsu0OSOWIAAp2Y_.jpg",
+        "width": 1440
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1930835022761562112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsu0OSOWEAAO4i5.jpg",
+        "width": 3076
+      },
+      {
+        "height": 1438,
+        "media_key": "3_1930835022790995968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsu0OSVXMAAaUSA.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930835022761566208",
+            "3_1930835022761562112",
+            "3_1930835022790995968"
+          ]
+        },
+        "author_id": "1851134609347719168",
+        "conversation_id": "1930835444003918249",
+        "created_at": "2025-06-06T03:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T04:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930835444003918249"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "伪娘の日常"
+            },
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "mtf"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbjEaf6lA9",
+              "end": 55,
+              "expanded_url": "https://x.com/AnqilaSong/status/1930835444003918249/photo/1",
+              "media_key": "3_1930835022761566208",
+              "start": 32,
+              "url": "https://t.co/JbjEaf6lA9"
+            },
+            {
+              "display_url": "pic.x.com/JbjEaf6lA9",
+              "end": 55,
+              "expanded_url": "https://x.com/AnqilaSong/status/1930835444003918249/photo/1",
+              "media_key": "3_1930835022761562112",
+              "start": 32,
+              "url": "https://t.co/JbjEaf6lA9"
+            },
+            {
+              "display_url": "pic.x.com/JbjEaf6lA9",
+              "end": 55,
+              "expanded_url": "https://x.com/AnqilaSong/status/1930835444003918249/photo/1",
+              "media_key": "3_1930835022790995968",
+              "start": 32,
+              "url": "https://t.co/JbjEaf6lA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930835444003918249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#伪娘の日常 #mtf #男娘 到新家了，算是xyn避难所（） https://t.co/JbjEaf6lA9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟\n08.166/48kg\n有对象awa，暂时没有下海打算",
+        "id": "1851134609347719168",
+        "location": "CQ",
+        "name": "songAnqila🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928514425365159936/RXJeES90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 49,
+          "like_count": 180,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 41
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1985974068252983609",
+    "created_at": "2025-11-06T04:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T05:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986288166391992818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1569933180270161920",
+          "start": 0,
+          "username": "AcdeAsdff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986288166391992818",
+    "in_reply_to_user_id": "1569933180270161920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985974068252983609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcdeAsdff 小美女出来玩呀~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1985974065325359108",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-Y4-jbQAQdDbb.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1985974065270763520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-Y4-WaMAAZ0f8.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1985974068252983609",
+        "created_at": "2025-11-06T04:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T05:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986288166391992818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1569933180270161920",
+              "start": 0,
+              "username": "AcdeAsdff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986288166391992818",
+        "in_reply_to_user_id": "1569933180270161920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985974068252983609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcdeAsdff 小美女出来玩呀~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985974065325359108",
+            "3_1985974065270763520"
+          ]
+        },
+        "author_id": "1569933180270161920",
+        "conversation_id": "1985974068252983609",
+        "created_at": "2025-11-05T07:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T08:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985974068252983609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAKel9m4Qf",
+              "end": 41,
+              "expanded_url": "https://x.com/AcdeAsdff/status/1985974068252983609/photo/1",
+              "media_key": "3_1985974065325359108",
+              "start": 18,
+              "url": "https://t.co/iAKel9m4Qf"
+            },
+            {
+              "display_url": "pic.x.com/iAKel9m4Qf",
+              "end": 41,
+              "expanded_url": "https://x.com/AcdeAsdff/status/1985974068252983609/photo/1",
+              "media_key": "3_1985974065270763520",
+              "start": 18,
+              "url": "https://t.co/iAKel9m4Qf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985974068252983609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我哥问我有没有买冬天的衣服，我说有 https://t.co/iAKel9m4Qf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 548,
+          "like_count": 1261,
+          "listed_count": 3,
+          "media_count": 25,
+          "tweet_count": 221
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T06:17:08.000Z",
+        "description": "有急事时：qq：1870307513\ngf:@AnqilaSong \ntgID:@Algebraic39\ngender:Mikufan.\ncn/en.Cant japanese :(\n\nfull description: https://t.co/WqfQ8O5hgi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "AnqilaSong"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "Algebraic39"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/AcdeAsdff/Acde…",
+                "end": 134,
+                "expanded_url": "http://github.com/AcdeAsdff/AcdeAsdff",
+                "start": 111,
+                "url": "https://t.co/WqfQ8O5hgi"
+              }
+            ]
+          }
+        },
+        "id": "1569933180270161920",
+        "location": "39,39,39",
+        "name": "AcdeAsdff",
+        "pinned_tweet_id": "1913861360020308384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940701053147865088/Ke5Cf2F3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 179,
+          "like_count": 5339,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 486
+        },
+        "username": "AcdeAsdff",
+        "verified": false
+      }
+    ]
+  }
+}

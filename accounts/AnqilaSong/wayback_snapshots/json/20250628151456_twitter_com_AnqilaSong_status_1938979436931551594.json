@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938979156886183936"
+      ]
+    },
+    "author_id": "1851134609347719168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1938979436931551594",
+    "created_at": "2025-06-28T15:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T16:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938979436931551594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/65cXDW7vGp",
+          "end": 59,
+          "expanded_url": "https://x.com/AnqilaSong/status/1938979436931551594/photo/1",
+          "media_key": "3_1938979156886183936",
+          "start": 36,
+          "url": "https://t.co/65cXDW7vGp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938979436931551594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "脑子一抽就买了（）当时冲动就买了。（）不知道下次冲动会不会直接死掉（） https://t.co/65cXDW7vGp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_1938979156886183936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuijRSEWYAAmGa4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938979156886183936"
+          ]
+        },
+        "author_id": "1851134609347719168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1938979436931551594",
+        "created_at": "2025-06-28T15:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T16:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938979436931551594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/65cXDW7vGp",
+              "end": 59,
+              "expanded_url": "https://x.com/AnqilaSong/status/1938979436931551594/photo/1",
+              "media_key": "3_1938979156886183936",
+              "start": 36,
+              "url": "https://t.co/65cXDW7vGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938979436931551594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脑子一抽就买了（）当时冲动就买了。（）不知道下次冲动会不会直接死掉（） https://t.co/65cXDW7vGp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟   精神正在每况愈下（）你们可以叫我安安\n08.166/48kg          会和所有xyn，xnn回关的\n（）非常想下海圆角赚钱\nZN🚪48",
+        "id": "1851134609347719168",
+        "name": "AiLiAnSong🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1933038147165671840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935297678872559616/8lOeiY0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 390,
+          "like_count": 603,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 112
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

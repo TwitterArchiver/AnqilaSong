@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2066490202168992148",
+    "created_at": "2026-06-15T13:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066512320222863849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066512320222863849",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066490202168992148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS 中国没有绝对禁止和支持未成年进行hrt，现在绝大部分买药都是在海外买的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2066490187069456384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2l4FwbAAAbkg5.jpg",
+        "width": 986
+      },
+      {
+        "height": 1996,
+        "media_key": "3_2066490187073687552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2l4FxbkAAhdg-.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2066490202168992148",
+        "created_at": "2026-06-15T13:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066512320222863849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066512320222863849",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066490202168992148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 中国没有绝对禁止和支持未成年进行hrt，现在绝大部分买药都是在海外买的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066490187069456384",
+            "3_2066490187073687552"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2066490202168992148",
+        "created_at": "2026-06-15T11:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066490202168992148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ukw1rylbIx",
+              "end": 155,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2066490202168992148/photo/1",
+              "media_key": "3_2066490187069456384",
+              "start": 132,
+              "url": "https://t.co/ukw1rylbIx"
+            },
+            {
+              "display_url": "pic.x.com/ukw1rylbIx",
+              "end": 155,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2066490202168992148/photo/1",
+              "media_key": "3_2066490187073687552",
+              "start": 132,
+              "url": "https://t.co/ukw1rylbIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066490202168992148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于为什么英国反跨的人仅仅占了25%就足以让官方禁止未成年跨性别者获取医疗支持，而中国即使超过90%的家长反跨官方却依然没有禁止这样做，个人简单分析了一下（注意，这里只讨论影响未成年医疗干预政策的因素本身，这并不是判断一个国家地区跨性别群体生存状况的唯一指标）：\n\n一、和西方国家相比，国内老保虽数量众多，但影响力有限：1️⃣西方老保有宗教来凝聚人心和形成组织度；而国内老保相互之间联系不紧密，且反跨核心动机也并不相同，凝聚力较差\n2️⃣国内老保一个劲的“境外势力警告”，以至于把太多注意力用来关注国外跨性别相关信息，而对自己国家相关政策一无所知，甚至大部分人根本不知道青春期阻断剂在国内早已投入临床应用\n3️⃣国内持有反跨立场的人对现政府支持率高于社会整体，这些人普遍不愿批评政府的决策。更多的是想方设法阻止跨性别者争取更多的权利而非破坏已有的。所以他们就算知道了国内已批准青春期阻断剂的使用，大概率也只会以此作为“国内跨性别地位已经很高了”的证据，来捂嘴阻止跨性别者进一步争取权益\n4️⃣由于“选票政治”的原因，国外政客可以通过反跨拉老保的选票，有强烈的利益驱动，而国内老保并不能通过反跨获取实质利益，纯粹“用恨发电”，所以积极性有限。即使有所谓“扭转机构”也都是同时拘禁各种家长眼里的“问题孩子”而非专门针对跨性别者\n5️⃣与国外老保普遍直接将矛头对准跨性别群体本身不同，国内老保反跨大多数是因为跨性别造成的某个结果（出生率下降等）或（他们认为的）造成跨性别存在的原因（例如境外势力）。而造成出生率下降的原因和被认为和境外势力有关的事物都有很多，且跨性别在其中并非核心因素，所以很少有人把主要精力放在反跨上，更像是路过时顺带着踩一脚。但即便如此，老保抖下的一粒灰，落在跨性别者头上也是一座大山\n\n二、除此之外，中国目前的制度和相关政策特点也使老保难以阻止未成年人获取性别过渡治疗。1️⃣很多西方国家当初为跨性别儿童提供医疗支持，很大程度上是为了回应“主流舆论”“民意诉求”。既然可以以民意为由通过，自然也能以民意为由废止；而国内从允许未成年跨性别者性别过渡治疗一开始就没有征求过普通民众的意见，所以以民意为由阻止未成年人性别过渡治疗本身就缺乏法理依据\n2️⃣青春期阻断剂在国内投入使用，并非是通过某条法案，而是国内一小撮参与跨性别者诊断治疗的学者将自己的研究成果发表后，各地医院以此作为依据来实践。所以未成年性别肯定治疗被视作一个专业领域而非政治问题，因此难以受到民间舆论的影响\n3️⃣国内不被允许上街集会的并不只有跨性别，反跨的人同样不让，考虑到国内恐跨的才是大多数，这种无立场指向性的禁令在某种程度上抑制了恐跨思潮进一步传播和增强，阻止了老保通过制造舆情压力迫使官方出台限制跨性别者获取医疗政策和性别变更的可能性（这里只讨论集会游行等活动在特定社会背景下对特定群体的“利”与“害”，而不讨论这类政治活动本身好不好）\n4️⃣同样是因为被判定为“境外势力”的原因，国内官方对跨性别群体的监控和限制也主要集中在舆论上，而非医疗方面。但这也绝不意味着舆论捂嘴带来的伤害是不痛不痒，无足轻重的\n\n（欢迎补充）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 783,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于为什么英国反跨的人仅仅占了25%就足以让官方禁止未成年跨性别者获取医疗支持，而中国即使超过90%的家长反跨官方却依然没有禁止这样做，个人简单分析了一下（注意，这里只讨论影响未成年医疗干预政策的因素本身，这并不是判断一个国家地区跨性别群体生存状况的唯一指标）： https://t.co/ukw1rylbIx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5782,
+          "following_count": 429,
+          "like_count": 1833,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 373
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4794,
+          "following_count": 3621,
+          "like_count": 1440,
+          "listed_count": 16,
+          "media_count": 274,
+          "tweet_count": 1862
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

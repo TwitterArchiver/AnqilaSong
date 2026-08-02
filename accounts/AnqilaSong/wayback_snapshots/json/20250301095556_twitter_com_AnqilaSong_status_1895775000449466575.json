@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1895775000449466575",
+    "created_at": "2025-03-01T09:55:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T10:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895775000449466575"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1895775000449466575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我决定开始走上鉴证这条道路，把恨国党的言论搬去内网让大陆人乐呵乐呵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1895775000449466575",
+        "created_at": "2025-03-01T09:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T10:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895775000449466575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895775000449466575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我决定开始走上鉴证这条道路，把恨国党的言论搬去内网让大陆人乐呵乐呵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "小南梁，上一世-AiLiAnSong\nqwq，有一点神经，不要和我越跑😡我还是很洁身自好的😭只是有一点黄黄的😋\n请不要和我讨论政治QAQ\n166/48kg\n2008，9，19",
+        "id": "1851134609347719168",
+        "location": "CQ",
+        "name": "songAnqila",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851134758270717952/1TP5KDNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 50,
+          "like_count": 168,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 31
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

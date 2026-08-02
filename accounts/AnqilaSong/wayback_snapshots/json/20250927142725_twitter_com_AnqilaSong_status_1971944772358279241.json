@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1971944772358279241",
+    "created_at": "2025-09-27T14:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T15:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971944772358279241"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "xyn"
+        },
+        {
+          "end": 9,
+          "start": 5,
+          "tag": "mtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971944772358279241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#xyn #mtf 我发现每当我和别的药娘相处时总是觉得好不自在，好紧张,类似于普通顺男和顺女相处的不自在感，可是我也是药娘啊😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1971944772358279241",
+        "created_at": "2025-09-27T14:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T15:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971944772358279241"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "xyn"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971944772358279241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#xyn #mtf 我发现每当我和别的药娘相处时总是觉得好不自在，好紧张,类似于普通顺男和顺女相处的不自在感，可是我也是药娘啊😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951795167171694592/Opie5SkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 524,
+          "like_count": 1079,
+          "listed_count": 4,
+          "media_count": 16,
+          "tweet_count": 130
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

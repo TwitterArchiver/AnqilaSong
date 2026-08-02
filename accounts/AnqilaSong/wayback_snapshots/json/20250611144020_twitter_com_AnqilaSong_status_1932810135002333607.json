@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1932132215821054346",
+    "created_at": "2025-06-11T14:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T15:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932810135002333607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1762636006207913984",
+          "start": 0,
+          "username": "konx9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932810135002333607",
+    "in_reply_to_user_id": "1762636006207913984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932783868190269512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konx9527 谢谢awa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1932132215821054346",
+        "created_at": "2025-06-11T14:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T15:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932810135002333607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1762636006207913984",
+              "start": 0,
+              "username": "konx9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932810135002333607",
+        "in_reply_to_user_id": "1762636006207913984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932783868190269512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konx9527 谢谢awa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762636006207913984",
+        "conversation_id": "1932132215821054346",
+        "created_at": "2025-06-11T12:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T13:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932783868190269512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851134609347719168",
+              "start": 0,
+              "username": "AnqilaSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932783868190269512",
+        "in_reply_to_user_id": "1851134609347719168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932132215821054346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnqilaSong 腰好细哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟   精神良好，暂时不会发疯（）你们可以叫我安安\n08.166/48kg          会和所有xyn，xnn回关的\n有对象awa，暂时没有下海打算  \nZN🚪48",
+        "id": "1851134609347719168",
+        "name": "AiLiAnSong🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928514425365159936/RXJeES90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 263,
+          "like_count": 374,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 74
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T00:29:13.000Z",
+        "description": "INFP/友跨🏳️‍⚧️/🏳️‍⚧️深柜/欢迎和我互fo😈😈❤️🐱😸",
+        "id": "1762636006207913984",
+        "name": "k0nx",
+        "pinned_tweet_id": "1885974902529823214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878829250326990848/qZFlQad__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 186,
+          "like_count": 3584,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 1125
+        },
+        "username": "konx9527",
+        "verified": false
+      }
+    ]
+  }
+}

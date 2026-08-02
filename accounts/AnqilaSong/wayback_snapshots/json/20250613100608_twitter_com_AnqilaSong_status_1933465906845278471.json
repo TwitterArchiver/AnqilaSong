@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1933410015161036949",
+    "created_at": "2025-06-13T10:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T11:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933465906845278471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1695975046051942400",
+          "start": 0,
+          "username": "mitsuki87613"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933465906845278471",
+    "in_reply_to_user_id": "1695975046051942400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933410015161036949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mitsuki87613 支持，某些人典型的精神胜利法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1933410015161036949",
+        "created_at": "2025-06-13T10:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T11:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933465906845278471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1695975046051942400",
+              "start": 0,
+              "username": "mitsuki87613"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933465906845278471",
+        "in_reply_to_user_id": "1695975046051942400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933410015161036949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitsuki87613 支持，某些人典型的精神胜利法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695975046051942400",
+        "conversation_id": "1933410015161036949",
+        "created_at": "2025-06-13T06:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T07:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933410015161036949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933410015161036949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚和粉红辩经，切实体会到了东大基本盘的愚蠢之处，东大有这些被剥削着还要说自己受到了实惠的基本盘，确实不怕被推翻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟升天✟   精神良好，暂时不会发疯（）你们可以叫我安安\n08.166/48kg          会和所有xyn，xnn回关的\n有对象awa，暂时没有下海打算  \nZN🚪48",
+        "id": "1851134609347719168",
+        "name": "AiLiAnSong🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1933038147165671840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928514425365159936/RXJeES90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 282,
+          "like_count": 391,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 81
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T01:42:26.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️/已出柜/跨女同/社会主义/卢森堡主义/反资反修/理想主义/术力口/愿人类彻底解放，愿人类真正自由/想和大家交朋友，同类会回fo(◍˃̶ᗜ˂̶◍)/为世界上所有的美好而战/\nWe shall meet in the place where there is no darkness",
+        "id": "1695975046051942400",
+        "location": "亚细亚苏维埃社会主义人民联盟（PASSU）-上海公社",
+        "name": "なな🍥",
+        "pinned_tweet_id": "1924281280566583396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908598291681677312/j-YqJbMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 696,
+          "like_count": 9751,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 1803
+        },
+        "username": "mitsuki87613",
+        "verified": false
+      }
+    ]
+  }
+}

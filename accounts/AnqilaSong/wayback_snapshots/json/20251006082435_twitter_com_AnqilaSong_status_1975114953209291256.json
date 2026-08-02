@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1974888115937612205",
+    "created_at": "2025-10-06T08:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T09:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975114953209291256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1639247931898306561",
+          "start": 0,
+          "username": "sam51824016070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975114953209291256",
+    "in_reply_to_user_id": "1639247931898306561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974888115937612205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sam51824016070 这个头像是什么意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1509,
+        "media_key": "3_1974888100058046464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2g2Q3sbIAAqRfC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974888100154499072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2g2Q4Da4AA6JXG.jpg",
+        "width": 945
+      },
+      {
+        "height": 2058,
+        "media_key": "3_1974888100146102273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2g2Q4BawAEq4oO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1354,
+        "media_key": "3_1974888100267708416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2g2Q4eaUAAHuU8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1974888115937612205",
+        "created_at": "2025-10-06T08:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975114953209291256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1639247931898306561",
+              "start": 0,
+              "username": "sam51824016070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975114953209291256",
+        "in_reply_to_user_id": "1639247931898306561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974888115937612205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sam51824016070 这个头像是什么意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974888100058046464",
+            "3_1974888100154499072",
+            "3_1974888100146102273",
+            "3_1974888100267708416"
+          ]
+        },
+        "author_id": "1639247931898306561",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974888115937612205",
+        "created_at": "2025-10-05T17:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T18:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974888115937612205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MP6b60vile",
+              "end": 99,
+              "expanded_url": "https://x.com/sam51824016070/status/1974888115937612205/photo/1",
+              "media_key": "3_1974888100058046464",
+              "start": 76,
+              "url": "https://t.co/MP6b60vile"
+            },
+            {
+              "display_url": "pic.x.com/MP6b60vile",
+              "end": 99,
+              "expanded_url": "https://x.com/sam51824016070/status/1974888115937612205/photo/1",
+              "media_key": "3_1974888100154499072",
+              "start": 76,
+              "url": "https://t.co/MP6b60vile"
+            },
+            {
+              "display_url": "pic.x.com/MP6b60vile",
+              "end": 99,
+              "expanded_url": "https://x.com/sam51824016070/status/1974888115937612205/photo/1",
+              "media_key": "3_1974888100146102273",
+              "start": 76,
+              "url": "https://t.co/MP6b60vile"
+            },
+            {
+              "display_url": "pic.x.com/MP6b60vile",
+              "end": 99,
+              "expanded_url": "https://x.com/sam51824016070/status/1974888115937612205/photo/1",
+              "media_key": "3_1974888100267708416",
+              "start": 76,
+              "url": "https://t.co/MP6b60vile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974888115937612205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 66519,
+          "like_count": 260,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚上好奇的换了个微信头像，今早朋友打电话来，微友发信息来问我的头像怎么没有了？头像在好友那里已经变显示成了黑白。纸敷的共产党国连一张卡通图片都害怕😨 https://t.co/MP6b60vile"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973019240652582912/UCF0potu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 534,
+          "like_count": 1120,
+          "listed_count": 4,
+          "media_count": 16,
+          "tweet_count": 167
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T12:50:09.000Z",
+        "description": "认清中共邪恶,反共进行到底, 共匪可耻，反共光荣，共匪国不是我的国,共匪血旗不是我的国旗，没有共产党才有新中国 。\n\n以防万一请关注小号https://t.co/dllXpw1iuI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Jamesso972309?…",
+                "end": 91,
+                "expanded_url": "https://x.com/Jamesso972309?t=HqKwQBV3q3Iar0J1ZHYvFQ&s=09",
+                "start": 68,
+                "url": "https://t.co/dllXpw1iuI"
+              }
+            ]
+          }
+        },
+        "id": "1639247931898306561",
+        "location": "California, USA",
+        "name": "YiFeng Su",
+        "pinned_tweet_id": "1952888657993711851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836500437815693314/URQTGhSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9228,
+          "following_count": 2742,
+          "like_count": 19327,
+          "listed_count": 48,
+          "media_count": 1938,
+          "tweet_count": 6230
+        },
+        "username": "sam51824016070",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2006974899294973984",
+    "created_at": "2026-01-02T16:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T17:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007130388498731115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001158941544505344",
+          "start": 0,
+          "username": "DetraFairy33970"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007130388498731115",
+    "in_reply_to_user_id": "2001158941544505344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006975252577005695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DetraFairy33970 马勒戈壁我操死你妈，臭杂种，把你麻痹给撕烂，臭傻逼，操你妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2006974899294973984",
+        "created_at": "2026-01-02T16:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T17:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007130388498731115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001158941544505344",
+              "start": 0,
+              "username": "DetraFairy33970"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007130388498731115",
+        "in_reply_to_user_id": "2001158941544505344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006975252577005695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DetraFairy33970 马勒戈壁我操死你妈，臭杂种，把你麻痹给撕烂，臭傻逼，操你妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001158941544505344",
+        "conversation_id": "2006974899294973984",
+        "created_at": "2026-01-02T06:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T07:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006975252577005695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851134609347719168",
+              "start": 0,
+              "username": "AnqilaSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006975252577005695",
+        "in_reply_to_user_id": "1851134609347719168",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006974899294973984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnqilaSong tr 💰 🌸 🔥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1983163136569127305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6337,
+          "following_count": 553,
+          "like_count": 1517,
+          "listed_count": 7,
+          "media_count": 51,
+          "tweet_count": 286
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T05:14:07.000Z",
+        "description": "诚信共赢🤝正品好货💊效果保真。出售催情药 迷药 春药 听话水 针孔摄像头🎥 伟哥延时。 大陆海外多仓可发，支持视频看货，私密配送，安全收货。咨询订购客服TG✈️： https://t.co/i0Lhz991MU  X客服 @bf5580 💎 🌺 🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 111,
+                "username": "bf5580"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mishang558",
+                "end": 105,
+                "expanded_url": "http://t.me/mishang558",
+                "start": 82,
+                "url": "https://t.co/i0Lhz991MU"
+              }
+            ]
+          }
+        },
+        "id": "2001158941544505344",
+        "name": "点我头像💊迷💊听话💧春💊 🎌 🎊 🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006977097550749697/n6xTH225_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "DetraFairy33970",
+        "verified": false
+      }
+    ]
+  }
+}

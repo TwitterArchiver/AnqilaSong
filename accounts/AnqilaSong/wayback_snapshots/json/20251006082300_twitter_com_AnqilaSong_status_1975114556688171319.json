@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1974661346726969801",
+    "created_at": "2025-10-06T08:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T09:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975114556688171319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1749750375866089472",
+          "start": 0,
+          "username": "DianneMath3957"
+        },
+        {
+          "end": 30,
+          "id": "3460383084",
+          "start": 16,
+          "username": "TruthMedia123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975114556688171319",
+    "in_reply_to_user_id": "1749750375866089472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975111236766642617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianneMath3957 @TruthMedia123 我自己家给自己做不也是特供，社区活动做月饼不也是特供，无脑黑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1974661346726969801",
+        "created_at": "2025-10-06T08:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975114556688171319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749750375866089472",
+              "start": 0,
+              "username": "DianneMath3957"
+            },
+            {
+              "end": 30,
+              "id": "3460383084",
+              "start": 16,
+              "username": "TruthMedia123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975114556688171319",
+        "in_reply_to_user_id": "1749750375866089472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975111236766642617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianneMath3957 @TruthMedia123 我自己家给自己做不也是特供，社区活动做月饼不也是特供，无脑黑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749750375866089472",
+        "conversation_id": "1974661346726969801",
+        "created_at": "2025-10-06T08:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975111236766642617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851134609347719168",
+              "start": 0,
+              "username": "AnqilaSong"
+            },
+            {
+              "end": 26,
+              "id": "3460383084",
+              "start": 12,
+              "username": "TruthMedia123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975111236766642617",
+        "in_reply_to_user_id": "1851134609347719168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974792130544763049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnqilaSong @TruthMedia123 那不還是特供😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973019240652582912/UCF0potu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 534,
+          "like_count": 1120,
+          "listed_count": 4,
+          "media_count": 16,
+          "tweet_count": 166
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T11:06:28.000Z",
+        "description": "支那豬早該圖圖了",
+        "id": "1749750375866089472",
+        "name": "習近平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795083210894032896/yFde7xVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 22,
+          "like_count": 1572,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 37
+        },
+        "username": "DianneMath3957",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-05T15:04:03.000Z",
+        "description": "傳播真相，匡扶正義良知，回歸中華傳統。 世間總有公道。歡迎投稿爆料！如果推文有錯誤歡迎指正。通過本號私信發送即可。",
+        "id": "3460383084",
+        "name": "真相傳媒",
+        "pinned_tweet_id": "1973982327035605503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618727520500850692/SdW0o-cV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261231,
+          "following_count": 5001,
+          "like_count": 8639,
+          "listed_count": 639,
+          "media_count": 71596,
+          "tweet_count": 106072
+        },
+        "username": "TruthMedia123",
+        "verified": true
+      }
+    ]
+  }
+}

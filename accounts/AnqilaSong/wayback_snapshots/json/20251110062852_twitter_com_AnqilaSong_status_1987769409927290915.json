@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1987722419344433240",
+    "created_at": "2025-11-10T06:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T07:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987769409927290915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1569933180270161920",
+          "start": 0,
+          "username": "AcdeAsdff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987769409927290915",
+    "in_reply_to_user_id": "1569933180270161920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987722419344433240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcdeAsdff 小美女"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1987722416588804096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5XPAajbUAA6fCV.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1987722416890716160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5XPAbraIAAsh8Z.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1987722419344433240",
+        "created_at": "2025-11-10T06:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T07:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987769409927290915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1569933180270161920",
+              "start": 0,
+              "username": "AcdeAsdff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987769409927290915",
+        "in_reply_to_user_id": "1569933180270161920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987722419344433240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcdeAsdff 小美女"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987722416588804096",
+            "3_1987722416890716160"
+          ]
+        },
+        "author_id": "1569933180270161920",
+        "conversation_id": "1987722419344433240",
+        "created_at": "2025-11-10T03:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T04:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987722419344433240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKU4vuEeSS",
+              "end": 23,
+              "expanded_url": "https://x.com/AcdeAsdff/status/1987722419344433240/photo/1",
+              "media_key": "3_1987722416588804096",
+              "start": 0,
+              "url": "https://t.co/cKU4vuEeSS"
+            },
+            {
+              "display_url": "pic.x.com/cKU4vuEeSS",
+              "end": 23,
+              "expanded_url": "https://x.com/AcdeAsdff/status/1987722419344433240/photo/1",
+              "media_key": "3_1987722416890716160",
+              "start": 0,
+              "url": "https://t.co/cKU4vuEeSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987722419344433240",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cKU4vuEeSS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 546,
+          "like_count": 1271,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 223
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T06:17:08.000Z",
+        "description": "有急事时：qq：1870307513\ngf:@AnqilaSong \ntgID:@Algebraic39\ngender:Mikufan.\ncn/en.Cant japanese :(\n\nfull description: https://t.co/WqfQ8O5hgi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "AnqilaSong"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "Algebraic39"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/AcdeAsdff/Acde…",
+                "end": 134,
+                "expanded_url": "http://github.com/AcdeAsdff/AcdeAsdff",
+                "start": 111,
+                "url": "https://t.co/WqfQ8O5hgi"
+              }
+            ]
+          }
+        },
+        "id": "1569933180270161920",
+        "location": "39,39,39",
+        "name": "AcdeAsdff",
+        "pinned_tweet_id": "1913861360020308384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940701053147865088/Ke5Cf2F3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 182,
+          "like_count": 5703,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 537
+        },
+        "username": "AcdeAsdff",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2063706813493821639",
+    "created_at": "2026-06-07T19:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T20:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063706813493821639"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063706813493821639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经常会又冷又热，难受死了，这是躯体化障碍吗，请问改如何解除"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2063706813493821639",
+        "created_at": "2026-06-07T19:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063706813493821639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063706813493821639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经常会又冷又热，难受死了，这是躯体化障碍吗，请问改如何解除"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1983163136569127305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982357614412369920/L-QisoLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5794,
+          "following_count": 422,
+          "like_count": 1780,
+          "listed_count": 5,
+          "media_count": 40,
+          "tweet_count": 357
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      }
+    ]
+  }
+}

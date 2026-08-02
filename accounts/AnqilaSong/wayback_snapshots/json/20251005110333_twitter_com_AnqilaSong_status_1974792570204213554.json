@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "1974329147683189231",
+    "created_at": "2025-10-05T11:03:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T12:03:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974792570204213554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1951444346433314818",
+          "start": 0,
+          "username": "cai0000012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974792570204213554",
+    "in_reply_to_user_id": "1951444346433314818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974329147683189231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cai0000012 不怪你，看起来确实没什么胃口（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1704,
+        "media_key": "3_1974329142536699905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Y55QqaAAEet4_.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "1974329147683189231",
+        "created_at": "2025-10-05T11:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T12:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974792570204213554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1951444346433314818",
+              "start": 0,
+              "username": "cai0000012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974792570204213554",
+        "in_reply_to_user_id": "1951444346433314818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974329147683189231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai0000012 不怪你，看起来确实没什么胃口（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974329142536699905"
+          ]
+        },
+        "author_id": "1951444346433314818",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1974329147683189231",
+        "created_at": "2025-10-04T04:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T05:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974329147683189231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UcK293RAo",
+              "end": 55,
+              "expanded_url": "https://x.com/cai0000012/status/1974329147683189231/photo/1",
+              "media_key": "3_1974329142536699905",
+              "start": 32,
+              "url": "https://t.co/1UcK293RAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974329147683189231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 119032,
+          "like_count": 623,
+          "quote_count": 1,
+          "reply_count": 75,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "因为没胃口恶心想吐，坐着盯了这碗面十几分钟被店员问了两次怎么了 https://t.co/1UcK293RAo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互联网地缚灵之一✟",
+        "id": "1851134609347719168",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "1944579968740061559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973019240652582912/UCF0potu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 535,
+          "like_count": 1111,
+          "listed_count": 4,
+          "media_count": 16,
+          "tweet_count": 159
+        },
+        "username": "AnqilaSong",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T00:46:16.000Z",
+        "description": "什么都很菜的cai/无证含糖MtF",
+        "id": "1951444346433314818",
+        "name": "🍥cai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951445525925863424/zOv7gm1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 35,
+          "like_count": 1541,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 431
+        },
+        "username": "cai0000012",
+        "verified": false
+      }
+    ]
+  }
+}
