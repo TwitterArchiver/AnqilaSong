@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2088289542893871286",
+    "created_at": "2026-08-14T18:30:59.000Z",
+    "display_text_range": [
+      16,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088332574284509391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088332574284509391",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088289542893871286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 李老师，你会回复我吗2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 863,
+        "media_key": "3_2088274926029492224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsK-ydX0AAI_2L.jpg",
+        "width": 1199
+      },
+      {
+        "height": 491,
+        "media_key": "3_2088274926121648128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsK-yzWAAAWJBe.png",
+        "width": 846
+      },
+      {
+        "height": 608,
+        "media_key": "3_2088274926042066944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsK-ygXsAAU0yU.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2088289542893871286",
+        "created_at": "2026-08-14T18:30:59.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088332574284509391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088332574284509391",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088289542893871286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 李老师，你会回复我吗2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088274926029492224",
+            "3_2088274926121648128",
+            "3_2088274926042066944"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088289542893871286",
+        "created_at": "2026-08-14T15:40:00.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088289542893871286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wLRA2TT0u4",
+              "end": 177,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2088289542893871286/photo/1",
+              "media_key": "3_2088274926029492224",
+              "start": 154,
+              "url": "https://t.co/wLRA2TT0u4"
+            },
+            {
+              "display_url": "pic.x.com/wLRA2TT0u4",
+              "end": 177,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2088289542893871286/photo/1",
+              "media_key": "3_2088274926121648128",
+              "start": 154,
+              "url": "https://t.co/wLRA2TT0u4"
+            },
+            {
+              "display_url": "pic.x.com/wLRA2TT0u4",
+              "end": 177,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2088289542893871286/photo/1",
+              "media_key": "3_2088274926042066944",
+              "start": 154,
+              "url": "https://t.co/wLRA2TT0u4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088289542893871286",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088274926029492224"
+          },
+          {
+            "media_key": "3_2088274926121648128"
+          },
+          {
+            "media_key": "3_2088274926042066944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "8月12日，国产校园视觉小说《完蛋！我被男同学包围了》制作组及核心主创“坦克-T”的B站账号内容突然清空。\n\n该游戏此前因Steam简介中“不玩的是gay”等表述，被部分网友指责“辱同”，制作组随后道歉并删除相关内容。\n争议发酵过程中，又有网友翻出游戏画面，指其中疑似存在“8964”“坦克人”等政治隐喻。\n\n随后，制作组及主创在B站发布的过往视频、动态等内容全部消失。\n\n有网友讽刺称：原本因为“辱同”被围攻，最后真正让账号消失的，却可能是另一条完全不同的红线。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 60508,
+          "like_count": 379,
+          "quote_count": 4,
+          "reply_count": 34,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "8月12日，国产校园视觉小说《完蛋！我被男同学包围了》制作组及核心主创“坦克-T”的B站账号内容突然清空。\n\n该游戏此前因Steam简介中“不玩的是gay”等表述，被部分网友指责“辱同”，制作组随后道歉并删除相关内容。\n争议发酵过程中，又有网友翻出游戏画面，指其中疑似存在“8964”“坦克人”等政治隐喻。 https://t.co/wLRA2TT0u4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥阴暗地蕾の女子\n陰険な雷系少女",
+        "id": "1851134609347719168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088332574284509391",
+        "name": "✟AiLiAnSong✟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851134609347719168/1750245901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088327556298850304/DT_GoWTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5708,
+          "following_count": 435,
+          "like_count": 1801,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "AnqilaSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2088329808329781296",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249522,
+          "following_count": 1080,
+          "like_count": 9917,
+          "listed_count": 8875,
+          "media_count": 52029,
+          "tweet_count": 59323
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

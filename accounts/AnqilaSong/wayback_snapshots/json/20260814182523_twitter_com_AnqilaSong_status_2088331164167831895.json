@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2088247911012590054",
+    "created_at": "2026-08-14T18:25:23.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088331164167831895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558967960621940739",
+          "start": 0,
+          "username": "jamyunfeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088331164167831895",
+    "in_reply_to_user_id": "1558967960621940739",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088247911012590054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jamyunfeng 我是神我是神123"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53301,
+        "height": 2436,
+        "media_key": "13_2088247715461488640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088247715461488640/img/xJM0sir3Xp9SEa4F.jpg",
+        "public_metrics": {
+          "view_count": 3971
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088247715461488640/vid/avc1/1126x2436/S06vsR5RF0b57MlS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088247715461488640/pl/_eglCGUDFI5jSK6k.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088247715461488640/vid/avc1/480x1038/pRm_Khsd5wzUNLox.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088247715461488640/vid/avc1/720x1556/gJGpRTk7zvq5PgIq.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088247715461488640/vid/avc1/320x692/t0fR-URtBPiERsU_.mp4"
+          }
+        ],
+        "width": 1126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2088247911012590054",
+        "created_at": "2026-08-14T18:25:23.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088331164167831895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558967960621940739",
+              "start": 0,
+              "username": "jamyunfeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088331164167831895",
+        "in_reply_to_user_id": "1558967960621940739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088247911012590054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jamyunfeng 我是神我是神123"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088247715461488640"
+          ]
+        },
+        "author_id": "1558967960621940739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2088247911012590054",
+        "created_at": "2026-08-14T12:54:34.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088247911012590054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTg9mgALdH",
+              "end": 31,
+              "expanded_url": "https://x.com/jamyunfeng/status/2088247911012590054/video/1",
+              "media_key": "13_2088247715461488640",
+              "start": 8,
+              "url": "https://t.co/yTg9mgALdH"
+            },
+            {
+              "display_url": "x.com/ak1raq_love/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/ak1raq_love/status/2088184387347054767",
+              "start": 32,
+              "url": "https://t.co/ub144zYJQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088247911012590054",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088247715461488640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 16158,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088184387347054767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是怎么看x的 https://t.co/yTg9mgALdH https://t.co/ub144zYJQ2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥阴暗地蕾の女子\n陰険な雷系少女",
+        "id": "1851134609347719168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088331164167831895",
+        "name": "✟AiLiAnSong✟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851134609347719168/1750245901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088327556298850304/DT_GoWTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5708,
+          "following_count": 435,
+          "like_count": 1800,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "AnqilaSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-15T00:05:18.000Z",
+        "description": "CHN高中鼪，丢嘞老牟，\n跨🏳️‍⚧️，hrt 2026/08/14 地下党，LGBT友好🏳️‍🌈🏳️‍⚧️\n全名：云iClaude；牢二次元，会点电脑\n老北京的，遣送到浙江金华上学（大市内游荡）\n国语很差🇹🇼，英语特别好🇺🇸，被人骂崇洋媚外（坏\n愿意交朋友，不是宅！我有自己的任务！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bmyf.uk",
+                "end": 23,
+                "expanded_url": "http://www.bmyf.uk",
+                "start": 0,
+                "url": "https://t.co/CKvL4MTPIm"
+              }
+            ]
+          }
+        },
+        "id": "1558967960621940739",
+        "is_identity_verified": true,
+        "location": "Zhejiang, mainland China",
+        "most_recent_tweet_id": "2088310452581474657",
+        "name": "iC1aude🏳️‍⚧️",
+        "pinned_tweet_id": "2086507630781141211",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558967960621940739/1775530594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087902323125436416/tYlmuQPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 103,
+          "like_count": 586,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/CKvL4MTPIm",
+        "username": "jamyunfeng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

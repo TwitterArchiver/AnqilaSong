@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2091492137234055222",
+    "created_at": "2026-08-23T15:09:35.000Z",
+    "display_text_range": [
+      9,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T16:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091543379981316147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1960198897827282944",
+          "start": 0,
+          "username": "Nya_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091543379981316147",
+    "in_reply_to_user_id": "1960198897827282944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091492137234055222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nya_QwQ 我也是，但是账号不知道转移给谁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2091492137234055222",
+        "created_at": "2026-08-23T15:09:35.000Z",
+        "display_text_range": [
+          9,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091543379981316147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1960198897827282944",
+              "start": 0,
+              "username": "Nya_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091543379981316147",
+        "in_reply_to_user_id": "1960198897827282944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091492137234055222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nya_QwQ 我也是，但是账号不知道转移给谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960198897827282944",
+        "conversation_id": "2091492137234055222",
+        "created_at": "2026-08-23T11:45:58.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091492137234055222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091492137234055222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想退游了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥阴暗地蕾の女子\n陰険な雷系少女",
+        "id": "1851134609347719168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091543379981316147",
+        "name": "✟AiLiAnSong✟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851134609347719168/1750245901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088327556298850304/DT_GoWTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5718,
+          "following_count": 462,
+          "like_count": 1848,
+          "listed_count": 6,
+          "media_count": 12,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "AnqilaSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-26T04:33:47.000Z",
+        "description": "✞昇天✟",
+        "id": "1960198897827282944",
+        "is_identity_verified": false,
+        "location": "猫猫の窝",
+        "most_recent_tweet_id": "2091513240174174553",
+        "name": "nya🍥",
+        "pinned_tweet_id": "2041592755416395999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1960198897827282944/1772393165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066546464067895296/PPX9sADq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 1204,
+          "like_count": 7967,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 1600
+        },
+        "url": "",
+        "username": "Nya_QwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

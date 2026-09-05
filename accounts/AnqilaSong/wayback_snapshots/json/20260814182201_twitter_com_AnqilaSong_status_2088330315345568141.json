@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2087844836338753942",
+    "created_at": "2026-08-14T18:22:01.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088330315345568141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088330315345568141",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087844836338753942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS 我是神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2087844836338753942",
+        "created_at": "2026-08-14T18:22:01.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088330315345568141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088330315345568141",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087844836338753942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 我是神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2087844836338753942",
+        "created_at": "2026-08-13T10:12:53.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087844836338753942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liulingyo/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/liulingyo/status/2087805482828488843",
+              "start": 24,
+              "url": "https://t.co/guMngGb5fu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087844836338753942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1428,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087805482828488843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱要是当年也像她一样勇敢，就不用遭这么多的罪了 https://t.co/guMngGb5fu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥阴暗地蕾の女子\n陰険な雷系少女",
+        "id": "1851134609347719168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088330315345568141",
+        "name": "✟AiLiAnSong✟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851134609347719168/1750245901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088327556298850304/DT_GoWTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5708,
+          "following_count": 435,
+          "like_count": 1800,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "AnqilaSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关",
+        "id": "1701484460250890240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087844836338753942",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701484460250890240/1747470440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5464,
+          "following_count": 3984,
+          "like_count": 1604,
+          "listed_count": 18,
+          "media_count": 306,
+          "tweet_count": 2145
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

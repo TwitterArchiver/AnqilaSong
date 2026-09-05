@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2087967170345029662",
+    "created_at": "2026-08-14T18:22:53.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088330534812557684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2008052555730030592",
+          "start": 0,
+          "username": "AXM7069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088330534812557684",
+    "in_reply_to_user_id": "2008052555730030592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087967170345029662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AXM7069 我是神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2087967170345029662",
+        "created_at": "2026-08-14T18:22:53.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088330534812557684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2008052555730030592",
+              "start": 0,
+              "username": "AXM7069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088330534812557684",
+        "in_reply_to_user_id": "2008052555730030592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087967170345029662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AXM7069 我是神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008052555730030592",
+        "conversation_id": "2087967170345029662",
+        "created_at": "2026-08-13T18:19:00.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087967170345029662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087967170345029662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我跟个傻逼一样似的，明明想着上推发个帖子就睡觉了，妈的一刷起推停不下来了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥阴暗地蕾の女子\n陰険な雷系少女",
+        "id": "1851134609347719168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088330550402748580",
+        "name": "✟AiLiAnSong✟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851134609347719168/1750245901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088327556298850304/DT_GoWTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5708,
+          "following_count": 435,
+          "like_count": 1800,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "AnqilaSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-05T05:47:13.000Z",
+        "description": "一只藥娘…常驻黄石\nHRT2026.4.8\n🎂2008.4.20\n 173cm…65kg \n 🐧2469513198",
+        "id": "2008052555730030592",
+        "is_identity_verified": false,
+        "location": "湖北黄石",
+        "most_recent_tweet_id": "2088271144285589711",
+        "name": "MAX🍥",
+        "pinned_tweet_id": "2041728206995386634",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008052555730030592/1772434995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087956268912652288/LZF8GkBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 46,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 147
+        },
+        "url": "",
+        "username": "AXM7069",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

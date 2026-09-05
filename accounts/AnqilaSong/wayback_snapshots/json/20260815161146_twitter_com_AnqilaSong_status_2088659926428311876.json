@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2088602048787079440",
+    "created_at": "2026-08-15T16:11:46.000Z",
+    "display_text_range": [
+      27,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088659926428311876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2078496818137104384",
+          "start": 0,
+          "username": "Brian168280"
+        },
+        {
+          "end": 26,
+          "id": "1271278454537744384",
+          "start": 13,
+          "username": "Rabbit_Pussy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088659926428311876",
+    "in_reply_to_user_id": "2078496818137104384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088654386910122347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Brian168280 @Rabbit_Pussy 看你妈，臭傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2088602048787079440",
+        "created_at": "2026-08-15T16:11:46.000Z",
+        "display_text_range": [
+          27,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088659926428311876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2078496818137104384",
+              "start": 0,
+              "username": "Brian168280"
+            },
+            {
+              "end": 26,
+              "id": "1271278454537744384",
+              "start": 13,
+              "username": "Rabbit_Pussy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088659926428311876",
+        "in_reply_to_user_id": "2078496818137104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088654386910122347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Brian168280 @Rabbit_Pussy 看你妈，臭傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078496818137104384",
+        "conversation_id": "2088602048787079440",
+        "created_at": "2026-08-15T15:49:45.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088654386910122347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1271278454537744384",
+              "start": 0,
+              "username": "Rabbit_Pussy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088654386910122347",
+        "in_reply_to_user_id": "1271278454537744384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088602048787079440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rabbit_Pussy 应该没人比我玩的开了吧☠️🌧️我福不黑不信你看"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥阴暗地蕾の女子\n陰険な雷系少女",
+        "id": "1851134609347719168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088659926428311876",
+        "name": "✟AiLiAnSong✟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851134609347719168/1750245901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088327556298850304/DT_GoWTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5720,
+          "following_count": 451,
+          "like_count": 1807,
+          "listed_count": 6,
+          "media_count": 10,
+          "tweet_count": 437
+        },
+        "url": "",
+        "username": "AnqilaSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T15:07:13.000Z",
+        "description": "05女大线下接待 本人aiai照都在✈ 喝🍵可以深入哟\n\n同⭕️城🎉上🍟椚~下方👇👇可联系✈：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "",
+                "end": 23,
+                "expanded_url": "",
+                "start": 0,
+                "url": "https://t.co/fegB5P8Equ"
+              }
+            ]
+          }
+        },
+        "id": "2078496818137104384",
+        "is_identity_verified": false,
+        "location": "距离2.5km👉✈",
+        "most_recent_tweet_id": "2088654387354767756",
+        "name": "白霞🌸同城上门♥线下选妃",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088654393608491008/Es64ST3g_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/fegB5P8Equ",
+        "username": "Brian168280",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-12T03:09:46.000Z",
+        "description": "没关系，一切都会坏起来的，因为人口红利/熵增",
+        "id": "1271278454537744384",
+        "is_identity_verified": false,
+        "location": "Niger",
+        "most_recent_tweet_id": "2088659779694768638",
+        "name": "兔毛M ε ow",
+        "pinned_tweet_id": "2062614219393257688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271278454537744384/1704258625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077551825247707136/I0HAjv2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5348,
+          "following_count": 2081,
+          "like_count": 27624,
+          "listed_count": 8,
+          "media_count": 1194,
+          "tweet_count": 8127
+        },
+        "url": "",
+        "username": "Rabbit_Pussy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

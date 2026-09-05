@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2087938929760841732",
+    "created_at": "2026-08-15T09:47:46.000Z",
+    "display_text_range": [
+      8,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088563291404804293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2086286552595132416",
+          "start": 0,
+          "username": "lmdsf6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088563291404804293",
+    "in_reply_to_user_id": "2086286552595132416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087938929760841732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmdsf6 为什么没人劝我不去死，都是劝我去死的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3476,
+        "media_key": "3_2087938904615948288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnZXxJaEAAqrug.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2087938929760841732",
+        "created_at": "2026-08-15T09:47:46.000Z",
+        "display_text_range": [
+          8,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088563291404804293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2086286552595132416",
+              "start": 0,
+              "username": "lmdsf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088563291404804293",
+        "in_reply_to_user_id": "2086286552595132416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087938929760841732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmdsf6 为什么没人劝我不去死，都是劝我去死的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087938904615948288"
+          ]
+        },
+        "author_id": "2086286552595132416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087938929760841732",
+        "created_at": "2026-08-13T16:26:47.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087938929760841732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ACEhq4pe8",
+              "end": 143,
+              "expanded_url": "https://x.com/lmdsf6/status/2087938929760841732/photo/1",
+              "media_key": "3_2087938904615948288",
+              "start": 120,
+              "url": "https://t.co/1ACEhq4pe8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087938929760841732",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087938904615948288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1073,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天成功的劝导了一个未成年妹妹没有去zs，还耐心劝导了一个未成年男娘，我告诉她应该三思而后行后再hr t不要因为一些想法就选择走这条路，这条路非常艰难，今天过得也很累，但也干了很多有意义的事情，光荣在于平淡，艰巨在于漫长꒰ *•ɷ•* ꒱ https://t.co/1ACEhq4pe8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥阴暗地蕾の女子\n陰険な雷系少女",
+        "id": "1851134609347719168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088563291404804293",
+        "name": "✟AiLiAnSong✟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851134609347719168/1750245901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088327556298850304/DT_GoWTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5717,
+          "following_count": 446,
+          "like_count": 1802,
+          "listed_count": 6,
+          "media_count": 9,
+          "tweet_count": 434
+        },
+        "url": "",
+        "username": "AnqilaSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T03:01:55.000Z",
+        "description": "🏳️‍⚧️18岁·mtf高三女生+业余作者 |CPTSD MDD GAD 患者 | 相信故事里的温柔也能照进现实 | 希望每个迷路的女孩都能被看见～（如果有最近去世的同类，可以联系我，我可以帮她做祷告，写讣告和悼文）",
+        "id": "2086286552595132416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088503069583781908",
+        "name": "橘猫小支～🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086286552595132416/1786610127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086287305321705474/yKuTR7rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 131,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "lmdsf6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

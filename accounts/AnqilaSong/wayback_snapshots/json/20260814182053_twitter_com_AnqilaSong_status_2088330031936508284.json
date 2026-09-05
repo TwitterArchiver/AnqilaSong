@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2087817932097094121",
+    "created_at": "2026-08-14T18:20:53.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088330031936508284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2083872895659634688",
+          "start": 0,
+          "username": "LingYu0612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088330031936508284",
+    "in_reply_to_user_id": "2083872895659634688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087817932097094121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingYu0612 我是神"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17667,
+        "height": 1610,
+        "media_key": "13_2087817795668959232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087817795668959232/img/DglRvd12zjMcrA6q.jpg",
+        "public_metrics": {
+          "view_count": 140690
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087817795668959232/vid/avc1/320x714/T2o8iiD_hjoVZ8bg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087817795668959232/vid/avc1/480x1072/lRbSZ0yaiyqFYx5i.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087817795668959232/vid/avc1/720x1610/x0V0BpMXUzAAYObD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087817795668959232/pl/1iO8WGxJewEOwvqI.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2087817932097094121",
+        "created_at": "2026-08-14T18:20:53.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088330031936508284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083872895659634688",
+              "start": 0,
+              "username": "LingYu0612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088330031936508284",
+        "in_reply_to_user_id": "2083872895659634688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087817932097094121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingYu0612 我是神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087817795668959232"
+          ]
+        },
+        "author_id": "2083872895659634688",
+        "conversation_id": "2087817932097094121",
+        "created_at": "2026-08-13T08:25:59.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087817932097094121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KeqrPT2V8K",
+              "end": 36,
+              "expanded_url": "https://x.com/LingYu0612/status/2087817932097094121/video/1",
+              "media_key": "13_2087817795668959232",
+              "start": 13,
+              "url": "https://t.co/KeqrPT2V8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087817932097094121",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087817795668959232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 277303,
+          "like_count": 577,
+          "quote_count": 2,
+          "reply_count": 592,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "话说大家都是怎么上推的? https://t.co/KeqrPT2V8K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥阴暗地蕾の女子\n陰険な雷系少女",
+        "id": "1851134609347719168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088330031936508284",
+        "name": "✟AiLiAnSong✟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851134609347719168/1750245901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088327556298850304/DT_GoWTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5708,
+          "following_count": 435,
+          "like_count": 1800,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 342
+        },
+        "url": "",
+        "username": "AnqilaSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T11:11:24.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "id": "2083872895659634688",
+        "is_identity_verified": false,
+        "location": "重庆市",
+        "most_recent_tweet_id": "2088321460930830814",
+        "name": "泠羽🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2085551277539459355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083872895659634688/1785669611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084617672319492096/3pN53PpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 329,
+          "like_count": 2879,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 959
+        },
+        "url": "",
+        "username": "LingYu0612",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

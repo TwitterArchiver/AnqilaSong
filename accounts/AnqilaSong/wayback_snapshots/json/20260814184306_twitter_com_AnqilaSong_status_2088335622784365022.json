@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2088103338726568095",
+    "created_at": "2026-08-14T18:43:06.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088335622784365022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035527946354716672",
+          "start": 0,
+          "username": "Amatsukiqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088335622784365022",
+    "in_reply_to_user_id": "2035527946354716672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088103338726568095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amatsukiqwq 牛逼，老子非得给你关注一个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1274,
+        "media_key": "3_2088103332703563776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpu6vga8AA9ZzW.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2088103338726568095",
+        "created_at": "2026-08-14T18:43:06.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088335622784365022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035527946354716672",
+              "start": 0,
+              "username": "Amatsukiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088335622784365022",
+        "in_reply_to_user_id": "2035527946354716672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088103338726568095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amatsukiqwq 牛逼，老子非得给你关注一个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088103332703563776"
+          ]
+        },
+        "author_id": "2035527946354716672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088103338726568095",
+        "created_at": "2026-08-14T03:20:05.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088103338726568095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b2PNUd9xWf",
+              "end": 46,
+              "expanded_url": "https://x.com/Amatsukiqwq/status/2088103338726568095/photo/1",
+              "media_key": "3_2088103332703563776",
+              "start": 23,
+              "url": "https://t.co/b2PNUd9xWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088103338726568095",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088103332703563776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 951,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "500達成！！！\n感謝大家一直以來的支持！🥰 https://t.co/b2PNUd9xWf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥阴暗地蕾の女子\n陰険な雷系少女",
+        "id": "1851134609347719168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088335622784365022",
+        "name": "✟AiLiAnSong✟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851134609347719168/1750245901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088327556298850304/DT_GoWTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5708,
+          "following_count": 436,
+          "like_count": 1801,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "AnqilaSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-22T01:25:44.000Z",
+        "description": "🏳️‍⚧️🍥|简体中文/正體中文/日本語|日本の文化と文学が好き|バンドリ、プロセカをプレイ\n总之大家可以来找我聊天交朋友\n同类互fo",
+        "id": "2035527946354716672",
+        "is_identity_verified": false,
+        "location": "重慶",
+        "most_recent_tweet_id": "2088288266919506170",
+        "name": "天月🏳️‍⚧️ 🍥",
+        "pinned_tweet_id": "2072508716562383206",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035527946354716672/1782924399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068511169758064640/ImfSq6Hj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 682,
+          "like_count": 7228,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "Amatsukiqwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

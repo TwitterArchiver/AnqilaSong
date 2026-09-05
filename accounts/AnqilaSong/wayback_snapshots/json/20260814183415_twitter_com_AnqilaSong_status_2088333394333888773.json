@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2087909756136755684",
+    "created_at": "2026-08-14T18:34:15.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088333394333888773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2071552995691732993",
+          "start": 0,
+          "username": "YuXi520LingLing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088333394333888773",
+    "in_reply_to_user_id": "2071552995691732993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087909756136755684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuXi520LingLing 我是神qq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2087909742765334529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPm-2Uya4AE1gEn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2087909742773686272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPm-2U0aUAAdivT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2087909756136755684",
+        "created_at": "2026-08-14T18:34:15.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088333394333888773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2071552995691732993",
+              "start": 0,
+              "username": "YuXi520LingLing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088333394333888773",
+        "in_reply_to_user_id": "2071552995691732993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087909756136755684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuXi520LingLing 我是神qq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087909742765334529",
+            "3_2087909742773686272"
+          ]
+        },
+        "author_id": "2071552995691732993",
+        "conversation_id": "2087909756136755684",
+        "created_at": "2026-08-13T14:30:52.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087909756136755684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4HiNicJEAu",
+              "end": 75,
+              "expanded_url": "https://x.com/YuXi520LingLing/status/2087909756136755684/photo/1",
+              "media_key": "3_2087909742765334529",
+              "start": 52,
+              "url": "https://t.co/4HiNicJEAu"
+            },
+            {
+              "display_url": "pic.x.com/4HiNicJEAu",
+              "end": 75,
+              "expanded_url": "https://x.com/YuXi520LingLing/status/2087909756136755684/photo/1",
+              "media_key": "3_2087909742773686272",
+              "start": 52,
+              "url": "https://t.co/4HiNicJEAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087909756136755684",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087909742765334529"
+          },
+          {
+            "media_key": "3_2087909742773686272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4411,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自從三月份頭髮被強制剪掉之後，又開始重新留回來啦！🥵🥵住的地方是包吃住的場里喵，現在是自己打工ing… https://t.co/4HiNicJEAu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥阴暗地蕾の女子\n陰険な雷系少女",
+        "id": "1851134609347719168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088333394333888773",
+        "name": "✟AiLiAnSong✟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851134609347719168/1750245901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088327556298850304/DT_GoWTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5708,
+          "following_count": 435,
+          "like_count": 1801,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "AnqilaSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T11:20:03.000Z",
+        "description": "MTF｜無證含糖｜常在春风里，活在药效里｜💊｜🔪🩸｜生产日期：2009.3.26｜hrt：2026.1.16｜同类互fo｜晚安享受者｜ym重度依赖｜精神稳定？？？｜1米68高个子｜看成分回fo\n会发一些日常和自己唠叨\n最爱的妹妹：@LingLinghmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "LingLinghmiao"
+              }
+            ]
+          }
+        },
+        "id": "2071552995691732993",
+        "is_identity_verified": false,
+        "location": "America",
+        "most_recent_tweet_id": "2088313017046028692",
+        "name": "语汐汐喵🍥",
+        "pinned_tweet_id": "2085887406906192129",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071552995691732993/1785931233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084566967743385600/tkDTpCpZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 359,
+          "like_count": 147,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "YuXi520LingLing",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

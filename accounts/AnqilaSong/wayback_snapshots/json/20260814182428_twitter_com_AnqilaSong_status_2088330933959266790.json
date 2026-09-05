@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2087994709126127688",
+    "created_at": "2026-08-14T18:24:28.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088330933959266790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "SaigyoujiHane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088330933959266790",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087994709126127688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaigyoujiHane 我是神5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2087994709126127688",
+        "created_at": "2026-08-14T18:24:28.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088330933959266790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "SaigyoujiHane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088330933959266790",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087994709126127688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaigyoujiHane 我是神5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "943439286287851520",
+        "conversation_id": "2087994709126127688",
+        "created_at": "2026-08-13T20:08:26.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T21:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087994709126127688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087994709126127688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 460,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你圈够乱的，再会"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥阴暗地蕾の女子\n陰険な雷系少女",
+        "id": "1851134609347719168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088330933959266790",
+        "name": "✟AiLiAnSong✟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851134609347719168/1750245901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088327556298850304/DT_GoWTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5708,
+          "following_count": 435,
+          "like_count": 1800,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 376
+        },
+        "url": "",
+        "username": "AnqilaSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "请把我的歌带回你的家 请把你的微笑留下",
+        "id": "943439286287851520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088268943006019870",
+        "name": "🌸❀西行寺　浅羽✿💮",
+        "pinned_tweet_id": "2081967785266307303",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/943439286287851520/1781669075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064317491502067712/i3miA2kt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3256,
+          "following_count": 6394,
+          "like_count": 118578,
+          "listed_count": 8,
+          "media_count": 2479,
+          "tweet_count": 36811
+        },
+        "url": "",
+        "username": "SaigyoujiHane",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

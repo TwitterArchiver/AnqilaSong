@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2088266151621255320",
+    "created_at": "2026-08-14T18:39:28.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088334706517614675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1672078534469369856",
+          "start": 0,
+          "username": "csl1027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088334706517614675",
+    "in_reply_to_user_id": "1672078534469369856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088266151621255320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@csl1027 牛逼，吃他妈的这么大"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2960,
+        "height": 720,
+        "media_key": "13_2088266130658070528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088266130658070528/img/R30KxudGc8BdkWjJ.jpg",
+        "public_metrics": {
+          "view_count": 1166
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088266130658070528/vid/avc1/600x270/iN4QfsicJ_HrZBOL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088266130658070528/vid/avc1/800x360/l4oRBMIkg5IvruOv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088266130658070528/vid/avc1/1600x720/oXUfiWa3YyWyBryZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088266130658070528/pl/Nvlyr1k4LiVmpnlQ.m3u8"
+          }
+        ],
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2088266151621255320",
+        "created_at": "2026-08-14T18:39:28.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088334706517614675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1672078534469369856",
+              "start": 0,
+              "username": "csl1027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088334706517614675",
+        "in_reply_to_user_id": "1672078534469369856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088266151621255320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@csl1027 牛逼，吃他妈的这么大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088266130658070528"
+          ]
+        },
+        "author_id": "1672078534469369856",
+        "conversation_id": "2088266151621255320",
+        "created_at": "2026-08-14T14:07:03.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:06:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088265966333607967",
+          "2088266151621255320"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "mtf"
+            },
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "木桶饭"
+            },
+            {
+              "end": 17,
+              "start": 15,
+              "tag": "胸"
+            },
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "chest"
+            },
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "rua"
+            },
+            {
+              "end": 32,
+              "start": 30,
+              "tag": "软"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "贫乳"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PXFcCDixIH",
+              "end": 60,
+              "expanded_url": "https://x.com/csl1027/status/2088266151621255320/video/1",
+              "media_key": "13_2088266130658070528",
+              "start": 37,
+              "url": "https://t.co/PXFcCDixIH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088266151621255320",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088266130658070528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3031,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "捏捏樂😋 #mtf #木桶饭 #胸 #chest #rua #软 #贫乳 https://t.co/PXFcCDixIH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥阴暗地蕾の女子\n陰険な雷系少女",
+        "id": "1851134609347719168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088334706517614675",
+        "name": "✟AiLiAnSong✟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851134609347719168/1750245901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088327556298850304/DT_GoWTl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5708,
+          "following_count": 435,
+          "like_count": 1801,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 416
+        },
+        "url": "",
+        "username": "AnqilaSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-23T03:06:25.000Z",
+        "description": "mtf🏳️‍⚧️🍥 | 📮:clipsule@outlook.com | 无证HRT:2026.3.15 | 不混🏳️‍⚧️圈 | 不改花刀 | 出厂2008.10.27 | 艰难存活ing | 家暴党 | 163cm/46kg | 妈妈@yefengSylvia | 计算机技术宅 | 小号@csl081027",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "yefengSylvia"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "csl081027"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.clipsule.cn",
+                "end": 23,
+                "expanded_url": "https://me.clipsule.cn/",
+                "start": 0,
+                "url": "https://t.co/VAVAt3H09t"
+              }
+            ]
+          }
+        },
+        "id": "1672078534469369856",
+        "is_identity_verified": false,
+        "location": "江苏 徐州",
+        "most_recent_tweet_id": "2088266151621255320",
+        "name": "晴れ猫🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2083481236304208095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672078534469369856/1781672466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067110268417802243/nDzW43nF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 37,
+          "like_count": 475,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 407
+        },
+        "url": "https://t.co/VAVAt3H09t",
+        "username": "csl1027",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
