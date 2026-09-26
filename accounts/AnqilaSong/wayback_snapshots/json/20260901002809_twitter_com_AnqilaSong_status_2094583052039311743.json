@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2094581226661433709",
+    "created_at": "2026-09-01T00:28:09.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T01:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094583052039311743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2093049722626084864",
+          "start": 0,
+          "username": "SongAiLiAn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094583052039311743",
+    "in_reply_to_user_id": "2093049722626084864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094581226661433709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SongAiLiAn 真可愛呢.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2094581095098675200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRFyaI6a8AAGO_T.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2094581112916074496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRFybLSa4AAD5ap.jpg",
+        "width": 3076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2094581226661433709",
+        "created_at": "2026-09-01T00:28:09.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T01:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094583052039311743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2093049722626084864",
+              "start": 0,
+              "username": "SongAiLiAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094583052039311743",
+        "in_reply_to_user_id": "2093049722626084864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094581226661433709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SongAiLiAn 真可愛呢.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094581095098675200",
+            "3_2094581112916074496"
+          ]
+        },
+        "author_id": "2093049722626084864",
+        "conversation_id": "2094581226661433709",
+        "created_at": "2026-09-01T00:20:54.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T01:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094581226661433709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbImPuWCLY",
+              "end": 34,
+              "expanded_url": "https://x.com/SongAiLiAn/status/2094581226661433709/photo/1",
+              "media_key": "3_2094581095098675200",
+              "start": 11,
+              "url": "https://t.co/xbImPuWCLY"
+            },
+            {
+              "display_url": "pic.x.com/xbImPuWCLY",
+              "end": 34,
+              "expanded_url": "https://x.com/SongAiLiAn/status/2094581226661433709/photo/1",
+              "media_key": "3_2094581112916074496",
+              "start": 11,
+              "url": "https://t.co/xbImPuWCLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094581226661433709",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094581095098675200"
+          },
+          {
+            "media_key": "3_2094581112916074496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天暂时不当地雷妹了 https://t.co/xbImPuWCLY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥阴暗地蕾の女子/重度精神病患者\n陰険な雷系少女",
+        "id": "1851134609347719168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094583052039311743",
+        "name": "✟AiLiAnSong✟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851134609347719168/1750245901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094582807389736960/t7lSV3Qz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5703,
+          "following_count": 463,
+          "like_count": 1872,
+          "listed_count": 6,
+          "media_count": 14,
+          "tweet_count": 458
+        },
+        "url": "",
+        "username": "AnqilaSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T18:58:32.000Z",
+        "description": "11/已讀亂回/可爱可怜可恨の人/氛囲氣少女/超級地雷係少女，時不時會想自殺/重度精神病(什麽病你猜)/時不時試圖紫砂或割手/互聯網地縛霛/🍥/右美沙芬,金剛烷安重度依赖者/",
+        "id": "2093049722626084864",
+        "is_identity_verified": false,
+        "location": "new zealand",
+        "most_recent_tweet_id": "2094582219927142751",
+        "name": "ʚ✞千葉信子_ちば のぶこ✞ɞ🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093049722626084864/1787862101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093057516548870144/dR46Ef3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 88,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "SongAiLiAn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

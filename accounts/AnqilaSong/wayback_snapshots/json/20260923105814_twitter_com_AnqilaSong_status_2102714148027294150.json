@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1851134609347719168",
+    "conversation_id": "2102648256811659675",
+    "created_at": "2026-09-23T10:58:14.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T11:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102714148027294150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2069906571014930432",
+          "start": 0,
+          "username": "kuonkgjolix3ig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102714148027294150",
+    "in_reply_to_user_id": "2069906571014930432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102707654204535226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuonkgjolix3ig 我操死你的妈，臭傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851134609347719168",
+        "conversation_id": "2102648256811659675",
+        "created_at": "2026-09-23T10:58:14.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102714148027294150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2069906571014930432",
+              "start": 0,
+              "username": "kuonkgjolix3ig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102714148027294150",
+        "in_reply_to_user_id": "2069906571014930432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102707654204535226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuonkgjolix3ig 我操死你的妈，臭傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069906571014930432",
+        "conversation_id": "2102648256811659675",
+        "created_at": "2026-09-23T10:32:25.000Z",
+        "display_text_range": [
+          12,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102707654204535226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851134609347719168",
+              "start": 0,
+              "username": "AnqilaSong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102707654204535226",
+        "in_reply_to_user_id": "1851134609347719168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102648256811659675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnqilaSong 太阳射🐛不进去的地方🐮你可以\n😙\nwelcoming more of restful moments"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-29T05:31:05.000Z",
+        "description": "✟互聯網地縛靈之一✟🍥阴暗地蕾の女子/重度精神病患者\n陰険な雷系少女",
+        "id": "1851134609347719168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102714148027294150",
+        "name": "✟AiLiAnSong✟",
+        "pinned_tweet_id": "2095744694479372294",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851134609347719168/1750245901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094582807389736960/t7lSV3Qz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5716,
+          "following_count": 473,
+          "like_count": 1966,
+          "listed_count": 6,
+          "media_count": 23,
+          "tweet_count": 491
+        },
+        "url": "",
+        "username": "AnqilaSong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-24T22:13:38.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v3wo.top",
+                "end": 23,
+                "expanded_url": "https://v3wo.top",
+                "start": 0,
+                "url": "https://t.co/QN3TvAiSH3"
+              }
+            ]
+          }
+        },
+        "id": "2069906571014930432",
+        "is_identity_verified": false,
+        "location": "距离您2.58km        附近👉🏻👉🏻来🈷️我",
+        "most_recent_tweet_id": "2102707655236366554",
+        "name": "kuonkg jolivj",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102707685762510848/s1hW1OVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/QN3TvAiSH3",
+        "username": "kuonkgjolix3ig",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
